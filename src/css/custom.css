@@ -1,0 +1,101 @@
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #007CF8;
+  --ifm-color-primary-dark: #006ad4;
+  --ifm-color-primary-darker: #00305f;
+  --ifm-color-primary-darkest: #001325;
+  --ifm-color-primary-light: #198cff;
+  --ifm-color-primary-lighter: #3d9eff;
+  --ifm-color-primary-lightest: #89c4ff;
+  --ifm-code-font-size: 95%;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgb(72, 77, 91);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 75%;
+}
+
+img[alt*="full"] { 
+  max-width: 100%;
+}
+
+img[alt*="left"] { 
+  float: left;
+  margin-right: 24px;
+  max-width: 50%;
+  max-height: 60vh;
+}
+
+.check-mark {
+  content: url('https://api.iconify.design/ic:baseline-check-circle.svg?height=24');
+  vertical-align: -0.125em;
+  float: left;
+  margin-right: 4px;
+  filter: invert(0.55) sepia(1) hue-rotate(100deg);                             
+}
+
+.more {
+  content: url('https://api.iconify.design/ic:baseline-more-horiz.svg?height=24');
+  vertical-align: -0.125em;
+}
+
+.revert {
+  content: url('https://api.iconify.design/ic:baseline-restore.svg?height=24');
+  vertical-align: -0.125em;
+  float: left;
+  margin-right: 4px;
+}
+
+.info {
+  content: url('https://api.iconify.design/ic:outline-info.svg?height=24');
+  vertical-align: -0.125em;
+  float: left;
+  background-blend-mode: lighten;
+  margin-right: 4px;
+  background-color: transparent;
+}
+.project-info-icon {
+  content: url('https://api.iconify.design/ic:baseline-tune.svg?height=24');
+  vertical-align: -0.125em;
+  background-color: white;
+  background-blend-mode: lighten;
+  margin-right: 4px;
+}
+
+html[data-theme="dark"] .info {
+  filter: invert();
+}
+
+html[data-theme="dark"] .revert {
+  filter: invert();
+}
+
+html[data-theme="dark"] .more {
+  filter: invert();
+}
+
+html[data-theme="dark"] .project-info-icon {
+  filter: invert();
+}
+
+
+.block {
+  display: flow-root;
+  margin-bottom: 48px;
+}

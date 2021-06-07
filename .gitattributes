@@ -1,0 +1,6 @@
+*.md !text !filter !merge !diff
+*.json !text !filter !merge !diff
+*.js !text !filter !merge !diff
+*.css !text !filter !merge !diff
+*.txt !text !filter !merge !diff
+.gitignore !text !filter !merge !diff
