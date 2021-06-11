@@ -6,7 +6,7 @@ sidebar_label: Behind the Scenes
 
 This chapter requires some technical knowledge, so if you want to explore some geek talk, we invite you to join us behind the scenes of Snowtrack.
 
-Snowtrack is based on [SnowFS](https://github.com/snowtrack/snowfs), our open-source community project, a fast, scalable version control file storage for graphic files. It is free for everyone to use, in commercial or non-commercial.
+Snowtrack is based on [SnowFS](https://github.com/snowtrack/snowfs), our open-source community project, a fast, scalable version control file storage for graphic files. It is free for everyone to use.
 
 ![full](/img/snowfs.png)
 
