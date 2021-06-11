@@ -22,7 +22,7 @@ This documentation helps you getting started with Snowtrack.
 
 ## Features
 
-- Track project changes and return to previous versions at any time.
+- Track project changes and return to past versions at any time.
 
 - Experiment freely without risking important project files.
 
@@ -33,9 +33,9 @@ This documentation helps you getting started with Snowtrack.
 
 ## Privacy
 
-Snowtrack Inc. does not collect data from this app. The application does not require an internet connection to run. However, it is recommended to enable the **Check automatically for updates** option during the welcome wizard or in the `Preferences` setting.
+Snowtrack Inc. does not collect data from this app. The application does not require an internet connection to run. However, it is recommended to enable the **Check automatically for updates** option during the welcome wizard or in the app preferences.
 
 ## How to contribute?
 
-The documentation is released under the open-source license [CC ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+The documentation is open-source and available under the [CC ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 If you would like to contribute to this documentation, feel free to open an issue or pull-request on GitHub. Changes are automatically uploaded to [snowtrack.io/docs](https://www.snowtrack.io/docs) and are live within 10 minutes after approval of the pull-request.

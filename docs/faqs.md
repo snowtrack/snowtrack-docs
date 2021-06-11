@@ -22,11 +22,11 @@ Snowtrack is based on SnowFS, our open-source community project. For more inform
 
 ### Where does Snowtrack keep all my file versions?
 
-Snowtrack lets you decide on a project-by-project whether it copies files and versions to its internal version database, or stores them in a hidden directory inside the project directory. For more information, check out the information about [Version Database](terminology.md#version-database).
+Snowtrack lets you decide project by project whether it copies files and versions to its internal version database, or stores them in a hidden directory inside the project directory. For more information, check out the information about [Version Database](terminology.md#version-database).
 
 ### Which files does Snowtrack support?
 
-Snowtrack supports all file types and has extended support for a variety of 2D and 3D file types. For more information check out the section on [File Support](file-support.md).
+Snowtrack supports all file types and has extended support for a variety of 2D and 3D file types. For more information check out the [File Support](file-support.md) section.
 
 ### How do I uninstall Snowtrack?
 
