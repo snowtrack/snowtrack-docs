@@ -17,6 +17,13 @@
   --ifm-code-font-size: 95%;
 }
 
+/* By default, the dark/light mode switch is only available
+in the desktop view. */
+.navbar__items--right > div {
+  display: unset !important;
+  color: red;
+}
+
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);
   display: block;
