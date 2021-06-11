@@ -38,4 +38,4 @@ Snowtrack Inc. does not collect data from this app. The application does not req
 ## How to contribute?
 
 The documentation is released under the open-source license [CC ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-If you would like to contribute to this documentation, feel free to open an issue or pull-request on GitHub. Changes are automatically uploaded to `snowtrack.io/docs` and are live within 10 minutes after approval of the pull-request.
+If you would like to contribute to this documentation, feel free to open an issue or pull-request on GitHub. Changes are automatically uploaded to [snowtrack.io/docs](https://www.snowtrack.io/docs) and are live within 10 minutes after approval of the pull-request.
