@@ -11,7 +11,7 @@ sidebar_label: Project Versions
 
 ![left](/img/versions.png)
 
-Within Snowtrack the left column represents the version timeline and shows all of the versions you have created throughout the lifetime of the project in descending order.
+In Snowtrack, the left column represents the project timeline and shows all versions you have created throughout the lifetime of the project in descending order.
 
 
 #### Current state
@@ -22,7 +22,7 @@ Within Snowtrack the left column represents the version timeline and shows all o
 
 #### Restore Files
 
-<span className="revert" /> You can change all files and directories to the ones from that version by clicking the restore button. If there are unsaved changes are present in your working directory you will be asked to save or discard these changes before you proceed.
+<span className="revert" /> You can change all files and directories to the ones from that version by clicking the restore button. If there are unsaved changes present in your working directory you will be asked to save or discard these changes before you proceed.
 
 </div>
 
@@ -32,7 +32,7 @@ Within Snowtrack the left column represents the version timeline and shows all o
 
 ![left](/img/unsaved-items.png)
 
-If a change is detected between the current version you are working on and the version in your working directory, Snowtrack will indicate this by creating an entry labelled **Unsaved items**. Inspect the changes by clicking on this entry.
+If a file modification is detected in your working directory, Snowtrack will indicate this by creating an entry called **Unsaved items**. Inspect the changes by clicking on this entry.
 
 Use the **Save** button to save your changes and create a new version.
 
