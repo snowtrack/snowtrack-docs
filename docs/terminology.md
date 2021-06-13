@@ -23,7 +23,7 @@ Snowtrack thinks in directories. Each project has a main directory, also known a
  +- scene.c4d
 ```
 
-For more information see [Project Info](project-info.md).
+For more information see [Project Info](project.md).
 
 
 ### Version Control, or Version Tracking
