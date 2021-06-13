@@ -10,11 +10,11 @@ Snowtrack is for 2D/3D artists and graphic designers who want to keep track of t
 
 ### What is a beta version?
 
-A software that is in **beta** is in a stage where some functionality is not fully implemented yet. The software is proven to work under normal conditions but requires additional testing to improve its robustness.
+A **beta** software is in a stagewhere some functionality is not fully implemented yet. The software is proven to work under normal conditions but requires additional testing to improve its robustness.
 
 ### Does Snowtrack require an internet connection?
 
-No, Snowtrack works perfectly fine when offline since all of the files and versions of your project are stored locally on your computer. With online access links and resources are accessible, including a check for updates, but these are entirely optional.
+No, Snowtrack works perfectly fine when offline since all files and versions of your project are stored locally on your computer. With online access links and resources are accessible, including an update check, but this is optional.
 
 ### What is Snowtrack based on?
 
