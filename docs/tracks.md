@@ -8,9 +8,7 @@ sidebar_label: Tracks
 
 ![left](/img/tracks.png) A fundamental functionality of Snowtrack are **Tracks**. In version control terms, also known as *Branches*.
 
-Tracks are a way to experiment with your design ideas without modifying the original files.
-
-You're creating a logo and your customer wants to see it in other colors? Apply the changes to your files and continue with the version your customer prefers.
+Tracks are a powerful tool to explore design ideas without cluttering your project directory. Imagine you're creating a logo for a customer and they want to see the logo from last week in a different color. Simply restore the corresponding version and change the logo in your project directory. Snowtrack will then automatically create a new track that branches off the current version.
 
 </div>
 
