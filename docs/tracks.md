@@ -6,7 +6,7 @@ sidebar_label: Tracks
 
 <div className="block">
 
-![left](/img/tracks.png) A fundamental functionality of Snowtrack is **Tracks**. In version control terms, also known as *Branches*.
+![left](/img/tracks.png) A fundamental functionality of Snowtrack are **Tracks**. In version control terms, also known as *Branches*.
 
 Tracks are a way to experiment with your design ideas without modifying the original files.
 
