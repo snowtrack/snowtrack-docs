@@ -84,7 +84,7 @@ Welcome to the May 2021 release of Snowtrack.
 
 * **Breadcrumbs** - Fixed an issue with the breadcrumb bar that prevented loading projects
 
-* **[Only moves files to trash when needed](https://github.com/Snowtrack/SnowFS/issues/178)** - Items are moved only to trash if they don't have a shadow copy in the version database, otherwise they will be deleted.
+* **[Only move files to trash when needed](https://github.com/Snowtrack/SnowFS/issues/178)** - Items are moved only to trash if they don't have a shadow copy in the version database, otherwise they will be deleted.
 * **Navigation** - Fixed an issue with mouse button navigation
 
 ## Version 0.8.12
