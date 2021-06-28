@@ -10,6 +10,10 @@ Welcome to the June 2021 release of Snowtrack.
 
 ## Version 0.8.49
 
+* Public Release Notes
+
+## Version 0.8.49
+
 * **[File handling](https://github.com/Snowtrack/SnowFS/issues/192)** - Fixed an issue where Snowtrack failed to load a directory while it is being deleted.
 * **[System Requirements](https://github.com/Snowtrack/SnowFS/issues/195)** - Snowtrack failed to operate on a new Windows installation.
 * **Updates** - Implemented an auto-updater which makes it easier to stay up-to-date.
