@@ -8,9 +8,9 @@ sidebar_label: Changelog
 
 Welcome to the June 2021 release of Snowtrack.
 
-## Version 0.8.49
+## Version 0.8.54
 
-* Public Release Notes
+* Open Public Beta
 
 ## Version 0.8.49
 
