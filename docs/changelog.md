@@ -4,6 +4,31 @@ title: Changelog
 sidebar_label: Changelog
 ---
 
+## July 2021 (Codename Rosemont)
+
+Welcome to the July 2021 release of Snowtrack.
+
+## Version 0.8.75
+
+* **Export Button** - Entire projects or individual tracks can now be exported and shared with other users
+
+![Snow Project](/img/changelog/snowproj.png)
+
+* **Opening project** - Opening a demo project could fail with a cryptic error message
+* **Sidebar** - Sidebar had no scrollbar
+
+* **Manage Projects** - Manage projects list was empty if a single project could not be accessed
+* **Tooltip** - Tooltip with absolute path on mouse hover over project**
+* **Thumbnails I** - New thumbnail support for Autodesk 3DS Max, Autodesk Maya and Character Creator
+* **Thumbnails II** - If available and of better quality, thumbnails from the Windows Explore are now displayed
+* **Modal Dialogs** - Updated button scheme for modal dialogs
+
+* **Performance** - Restoring to an older version is up to 10 times faster
+
+| Super slow before                         | Now super fast                           |
+| ----------------------------------------- | ---------------------------------------- |
+| ![Before](/img/changelog/old-restore.gif) | ![After](/img/changelog/new-restore.gif) |
+
 ## June 2021 (Codename Le Plateau)
 
 Welcome to the June 2021 release of Snowtrack.
