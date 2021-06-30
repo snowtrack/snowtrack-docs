@@ -20,7 +20,7 @@ Welcome to the July 2021 release of Snowtrack.
 * **Manage Projects** - Manage projects list was empty if a single project could not be accessed
 * **Tooltip** - Tooltip with absolute path on mouse hover over project**
 * **Thumbnails I** - New thumbnail support for Autodesk 3DS Max, Autodesk Maya and Character Creator
-* **Thumbnails II** - If available and of better quality, thumbnails from the Windows Explore are now displayed
+* **Thumbnails II** - If available and of better quality, thumbnails from the Windows Explorer are displayed
 * **Modal Dialogs** - Updated button scheme for modal dialogs
 
 * **Performance** - Restoring an older version is up to 10 times faster
