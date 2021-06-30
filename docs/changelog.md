@@ -23,7 +23,7 @@ Welcome to the July 2021 release of Snowtrack.
 * **Thumbnails II** - If available and of better quality, thumbnails from the Windows Explore are now displayed
 * **Modal Dialogs** - Updated button scheme for modal dialogs
 
-* **Performance** - Restoring to an older version is up to 10 times faster
+* **Performance** - Restoring an older version is up to 10 times faster
 
 | Super slow before                         | Now super fast                           |
 | ----------------------------------------- | ---------------------------------------- |
