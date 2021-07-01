@@ -13,4 +13,7 @@ slug: /system-requirements
   
   <div className="info" ></div> An optimized build for Apple Silicion (M1) is in the making.
 
+- **Linux**
+  Ubuntu LTS 16.04+, Debian 9+, RHEL 7+, CentOS 7+, Fedora 31+
+
 - No online connection required, but recommended (to receive updates).
