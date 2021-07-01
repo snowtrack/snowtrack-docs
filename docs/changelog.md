@@ -10,6 +10,7 @@ Welcome to the July 2021 release of Snowtrack.
 
 ## Version 0.8.75
 
+* **Linux Support** - Snowtrack is now available for Ubuntu, CentOS, Fedora and Debian
 * **Export Button** - Entire projects or individual tracks can now be exported and shared with other users
 
 ![Snow Project](/img/changelog/snowproj.png)
