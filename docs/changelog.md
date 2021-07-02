@@ -44,7 +44,7 @@ Welcome to the June 2021 release of Snowtrack.
 * **[System Requirements](https://github.com/Snowtrack/SnowFS/issues/195)** - Snowtrack failed to operate on a new Windows installation.
 * **Updates** - Implemented an auto-updater which makes it easier to stay up-to-date.
 
-![Auto Updater](/img/changelog/auto-updater.png)
+![Auto Updater](/img/auto-updater.png)
 
 ## Version 0.8.29
 
