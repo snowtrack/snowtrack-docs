@@ -30,42 +30,4 @@ Snowtrack supports all file types and has extended support for a variety of 2D a
 
 ### How do I uninstall Snowtrack?
 
-#### MacOS
-
-1. After you have closed Snowtrack, you can drag and drop the application from its location into the Trash in your dock.
-
-![Move Snowtrack To Trash](/img/snowtrack-uninstall-macos.png)
-
-
-2. There are two additional locations we need to take care of.
-
-- **Preferences**
-
-    `~/Library/Application Support/Snowtrack`
-
-- **Version Database** (default):
-
-    `~/Library/Application Support/Snowtrack/VersionDB` or where you stored it
-
-    ⚠️ Remember, the version database contains all of the files and versions of your projects that are managed by Snowtrack. So make sure this is the directory you want to delete.
-
-#### Windows
-
-1. Snowtrack can be uninstalled through the uninstaller. The most convenient way to uninstall Snowtrack on Windows is through the start menu by typing in *"Snowtrack"*. You can then click on **Uninstall**.
-
-![Uninstall Snowtrack](/img/snowtrack-uninstall-windows.png)
-
-2. There are two additional locations we need to take care of.
-
-- **Preferences**
-
-    Snowtrack saves its preferences inside this location:
-
-    `C:\Users\<YOUR_USERNAME>\AppData\Roaming\Snowtrack`
-
-- **Version Database** (by default inside the preference directory):
-
-    `C:\Users\<YOUR_USERNAME>\AppData\Roaming\Snowtrack\VersionDB` or the location you choose during the initial startup dialog.
-
-    ⚠️ Remember, the version database contains all files and versions of all your projects that are managed by Snowtrack. So make sure this is the directory you want to delete.
-
+Click [here](uninstall.md) to see the instructions on how to uninstall Snowtrack.

@@ -75,8 +75,8 @@ img[alt*="left"] {
   float: left;
   background-blend-mode: lighten;
   margin-right: 4px;
-  background-color: transparent;
 }
+
 .project-info-icon {
   content: url('https://api.iconify.design/ic:baseline-tune.svg?height=24');
   vertical-align: -0.125em;
@@ -94,10 +94,6 @@ html[data-theme="dark"] .revert {
 }
 
 html[data-theme="dark"] .more {
-  filter: invert();
-}
-
-html[data-theme="dark"] .project-info-icon {
   filter: invert();
 }
 

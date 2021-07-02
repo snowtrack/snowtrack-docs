@@ -22,7 +22,8 @@ module.exports = {
       'how-does-snowtrack-work',
     ],
     Knowledgebase: [
-      'error-101'
+      'linux',
+      'uninstall'
     ],
     Appendix: [
       'system-requirements',
