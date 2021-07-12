@@ -7,21 +7,21 @@ image: /img/social-media/snowproj.jpg
 
 ![Tutorials](/img/social-media/snowproj.jpg)
 
-Snowtrack is a fantastic tool for file and project versioning. This chapter is dedicated to designers and artists who create 2D|3D graphic tutorials to help them bring their tutorials to the next level. A lot of creators share the final project file of a tutorial with their audience. Users love to download tutorial projects as they can immediately start experimenting.
+Snowtrack is a fantastic tool for file and project versioning. This chapter is dedicated to designers and artists who create 2D|3D graphic tutorials in order to help them bring their tutorials to the next level. A lot of creators share the final project file of a tutorial with their audience. Users love to download these projects as they can immediately start experimenting.
 
-<div className="block">
-
-![left](/img/versions-few.png) With Snowtrack you can now go a step further and share the entire project history of your tutorials. This way your users can dive into every single step of your tutorial and understand how the project evolved.
-
-</div>
+With Snowtrack you can now go a step further and share the entire project history of your tutorials. This way your users can dive into every single step of your tutorial and understand how the project evolved.
 
 ## How do I start?
 
-The chapter [Getting started](get-started.md) is the easiest introduction how to use Snowtrack.
+<div className="block">
+
+![left](/img/versions-few.png) The chapter [Getting started](get-started.md) is the easiest introduction how to use Snowtrack.
 
 <div className="info" ></div>
 
 If you plan to use Snowtrack during a video tutorial, you don't need to switch back and forth between Snowtrack and your graphic application to create a new version. You can create new versions within **Photoshop**, **Blender**, **Cinema 4D**, **Pixelmator**, **Affinity Photo**, .. and many more by using a system-wide shortcut. Check out this [chapter](versions.md#system-wide-shortcuts) for more information.
+
+</div>
 
 ## How do I export?
 
@@ -49,12 +49,12 @@ Snowtrack is currently available as a free public beta version and will eventual
 
 ## Example
 
-After you have [installed](https://www.snowtrack.io/download-beta) Snowtrack, download the example project below to experience the benefits firsthand.
+After you have [installed](https://www.snowtrack.io/download-beta) Snowtrack, download the example project below to experience firsthand how such a tutorial can look like.
 
 <div style={{width: "300px", margin: "auto", textAlign: "center"}}>
 
 ![Tutorials](/img/blender-snowproj.png)
-Download:
+**Download:**
 **[Blender Example.snowproj](<https://snowtrack.s3.ca-central-1.amazonaws.com/demo-projects/Blender Example.snowproj>)**
 
 </div>
