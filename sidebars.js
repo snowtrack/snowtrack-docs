@@ -18,11 +18,11 @@ module.exports = {
     ],
     Advanced: [
       'backups',
-      'tutorials',
       'file-systems',
       'how-does-snowtrack-work',
     ],
     Knowledgebase: [
+      'tutorials',
       'linux',
       'uninstall'
     ],
