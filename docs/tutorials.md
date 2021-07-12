@@ -25,13 +25,13 @@ If you plan to use Snowtrack during a video tutorial, you don't need to switch b
 
 ## How do I export?
 
-Since version `0.8.75` you can export versions to a `*.snowproj` file and share it. Click on the export icon in the icon above the left project timeline. A dropdown menu will offer you the option to export all tracks, or just an individual one.
+Since version `0.8.75` you can export versions to a `*.snowproj` file and share it. Click on the export icon in the bar above the left project timeline. A dropdown menu will offer you the option to export all tracks, or just an individual one.
 
 ![Export](/img/export.png)
 
 <div className="info" ></div>
 
-**Quick Tip:** Before you export your project, verify the versions you have created throughout your tutorial. You might also remove a version, if it contains a state that is not worth sharing with your audience. Check out this [explanation](versions.md#how-to-delete-a-version) for more information.
+**Quick Tip:** Before you export your project, verify the versions you have created throughout your tutorial. If there is a version you don't want to share, you can easily remove it. Check out this [chapter](versions.md#how-to-delete-a-version) for more information.
 
 ## What is a `*.snowproj` file?
 
@@ -41,7 +41,7 @@ A `*.snowproj` file contains all file versions of your project. The file can be 
 
 ## Who can open `*.snowproj` files?
 
-Snowtrack is currently available as a free public beta version and will eventually be available as a **free** and paid version. For you, as a tutorial creator, it is important that your tutorials and projects are accessible to your entire userbase. **That's why Snowtracks free version will be able to open `*.snowproj` files.**.
+The current beta version of Snowtrack is available for free. After the beta phase is over, Snowtrack will be available as a **free** and paid version. For you, as a tutorial creator, it is important that your tutorials and projects are accessible to your entire userbase. **That's why Snowtracks free version will be able to open `*.snowproj` files.**.
 
 <div className="info" ></div>
 
