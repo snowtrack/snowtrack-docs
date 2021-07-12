@@ -1,7 +1,7 @@
 ---
 id: snowtrack-for-tutorials
 title: Snowtrack for 2D/3D tutorials
-sidebar_label: Tutorials
+sidebar_label: Snowtrack for tutorials
 image: /img/social-media/snowproj.jpg
 ---
 
