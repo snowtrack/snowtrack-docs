@@ -17,7 +17,7 @@ With Snowtrack you can now go a step further and share all versions of your tuto
 
 <div className="block">
 
-![left](/img/versions-few.png) The chapter [Getting started](get-started.md) is the easiest introduction how to use Snowtrack.
+![left](/img/versions-few.png) The chapter [Getting started](get-started.md) guides you through the basics of Snowtrack.
 
 <div className="info" ></div>
 
