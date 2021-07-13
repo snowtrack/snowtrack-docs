@@ -11,19 +11,19 @@ Snowtrack is a fantastic tool for file and project versioning. This chapter is d
 
 A lot of creators share the final project file of a tutorial with their audience. Users love to download these as they can immediately start exploring.
 
-With Snowtrack you can now go a step further and share all versions of your tutorial. This way your audience can inspect every stage of the project as it evolved.
+<div className="block">
+
+![left](/img/versions-few.png) With Snowtrack you can now go a step further and share all versions of your tutorial. This way your audience can inspect the stages and files they are interested in.
+
+</div>
 
 ## How do I start?
 
-<div className="block">
-
-![left](/img/versions-few.png) The chapter [Getting started](get-started.md) guides you through the basics of Snowtrack.
+The chapter [Getting started](get-started.md) guides you through the basics of Snowtrack.
 
 <div className="info" ></div>
 
 If you plan to use Snowtrack during a video tutorial, you don't need to switch back and forth between your graphic application and Snowtrack to create a new version. You can create new versions within **Photoshop**, **Blender**, **Cinema 4D**, **Pixelmator**, **Affinity Photo**, .. and many more by using a system-wide shortcut. Check out this [chapter](versions.md#system-wide-shortcuts) for more information.
-
-</div>
 
 ## How do I export?
 
