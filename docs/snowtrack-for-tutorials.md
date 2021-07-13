@@ -51,7 +51,7 @@ The current beta version of Snowtrack is available for free. After the beta phas
 
 ## Example
 
-After you have [installed](https://www.snowtrack.io/download-beta) Snowtrack, download the example project below to experience firsthand how a versionized project can look like.
+After you have [installed](https://www.snowtrack.io/download-beta) Snowtrack, download the example project below to experience firsthand how a versioned project can look like.
 
 <div style={{width: "300px", margin: "auto", textAlign: "center"}}>
 
