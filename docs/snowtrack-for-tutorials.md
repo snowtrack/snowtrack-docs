@@ -41,7 +41,7 @@ A `*.snowproj` file contains all file versions of your project. The file can be 
 
 ## Who can open `*.snowproj` files?
 
-The current beta version of Snowtrack is available for free. After the beta phase is over, Snowtrack will be available as a **free** and paid version. For you, as a tutorial creator, it is important that your tutorials and projects are accessible to your entire userbase. **That's why Snowtrack's free version will be able to open `*.snowproj` files.**.
+The current beta version of Snowtrack is available for free. After the beta phase is over, Snowtrack will be available as a **free** and paid version. For you, as a tutorial creator, it is important that your tutorials and projects are accessible to your entire userbase. **That's why Snowtrack's free version will be able to open `*.snowproj` files.**
 
 <div className="info" ></div>
 
@@ -49,7 +49,7 @@ The current beta version of Snowtrack is available for free. After the beta phas
 
 ## Example
 
-After you have [installed](https://www.snowtrack.io/download-beta) Snowtrack, download the example project below to experience firsthand how such a tutorial can look like.
+After you have [installed](https://www.snowtrack.io/download-beta) Snowtrack, download the example project below to experience firsthand how a versionized project can look like.
 
 <div style={{width: "300px", margin: "auto", textAlign: "center"}}>
 
