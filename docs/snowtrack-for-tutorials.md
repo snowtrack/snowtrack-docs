@@ -21,7 +21,7 @@ With Snowtrack you can now go a step further and share all versions of your tuto
 
 <div className="info" ></div>
 
-If you plan to use Snowtrack during a video tutorial, you don't need to switch back and forth between Snowtrack and your graphic application to create a new version. You can create new versions within **Photoshop**, **Blender**, **Cinema 4D**, **Pixelmator**, **Affinity Photo**, .. and many more by using a system-wide shortcut. Check out this [chapter](versions.md#system-wide-shortcuts) for more information.
+If you plan to use Snowtrack during a video tutorial, you don't need to switch back and forth between your graphic application and Snowtrack to create a new version. You can create new versions within **Photoshop**, **Blender**, **Cinema 4D**, **Pixelmator**, **Affinity Photo**, .. and many more by using a system-wide shortcut. Check out this [chapter](versions.md#system-wide-shortcuts) for more information.
 
 </div>
 
