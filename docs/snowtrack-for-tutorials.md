@@ -11,7 +11,7 @@ Snowtrack is a fantastic tool for file and project versioning. This chapter is d
 
 A lot of creators share the final project file of a tutorial with their audience. Users love to download these as they can immediately start exploring.
 
-With Snowtrack you can now go a step further and share all versions of your tutorial. This way your audience can inspect and open every single file of the project as it evolved.
+With Snowtrack you can now go a step further and share all versions of your tutorial. This way your audience can inspect and inspect every stage of the project as it evolved.
 
 ## How do I start?
 
