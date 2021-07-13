@@ -45,7 +45,7 @@ The current beta version of Snowtrack is available for free. After the beta phas
 
 <div className="info" ></div>
 
-`*.snowproj` files are technically a zip file and can be unpacked with any regular unzipper. You can manually restore the files, or use our free and open-source project [SnowFS](https://www.github.com/snowtrack/snowfs) to inspect the project.
+`*.snowproj` files are technically a zip file and can be unpacked with any regular unzipper. You can manually restore the files, or use our free open-source project [SnowFS](https://www.github.com/snowtrack/snowfs) to inspect the project.
 
 ## Example
 
