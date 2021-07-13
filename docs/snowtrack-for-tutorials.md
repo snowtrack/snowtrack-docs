@@ -7,7 +7,7 @@ image: /img/social-media/snowproj.jpg
 
 ![Tutorials](/img/social-media/snowproj.jpg)
 
-Snowtrack is a fantastic tool for file and project versioning. This chapter is dedicated to designers and artists who create 2D/3D graphic tutorials in order to help them bring their tutorials to the next level. A lot of creators share the final project file of a tutorial with their audience. Users love to download these as they can immediately start exploring.
+Snowtrack is a fantastic tool for file and project versioning. This chapter is dedicated to creators of 2D/3D graphic tutorials to help them bring their tutorials to the next level. A lot of creators share the final project file of a tutorial with their audience. Users love to download these as they can immediately start exploring.
 
 With Snowtrack you can now go a step further and share all versions of your tutorial. This way your audience can inspect and open every single file of the project as it evolved.
 
