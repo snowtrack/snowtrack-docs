@@ -4,6 +4,28 @@ title: Changelog
 sidebar_label: Changelog
 ---
 
+## August 2021 (Codename Côte-des-Neiges)
+
+Welcome to the August 2021 release of Snowtrack.
+
+## Version 0.8.92
+
+* **Version Info** - Versions show information which files were added, modified or deleted.
+
+![Diff Info](/img/changelog/diff.jpg)
+
+* **Context Menu in Sidebar** - Open the context-menu with a right-click. 
+
+![Context Menu](/img/changelog/right-click.png)
+
+* **Tooltips** - Versions and files now show a tooltip.
+
+![Tooltip](/img/changelog/tooltip.png)
+
+* **Application font** - Snowtrack received a new smoother font.
+* **\*.snowproj don't unpack on start** - Snowtrack might not unpack a `*.snowproj` file on double-click.
+* **Other** - Several minor speed and UI/UX improvements.
+
 ## July 2021 (Codename Rosemont)
 
 Welcome to the July 2021 release of Snowtrack.
