@@ -22,6 +22,7 @@ module.exports = {
       'how-does-snowtrack-work',
     ],
     Knowledgebase: [
+      'snowtrack-for-tutorials',
       'linux',
       'uninstall'
     ],
