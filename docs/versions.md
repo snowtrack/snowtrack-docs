@@ -59,6 +59,10 @@ Snowtrack registers a system-wide shortcut on startup. By pressing `CMD+Shift+1`
 
 ![left](/img/delete-version.png)
 
-Right-click on a specific version and select **Delete version...**. Confirm to remove the version. **This operation cannot be undone!**
+To delete a version from your project timeline, perform a *Right-click* on the version and select <p><span className="delete" /> Delete Version....</p>
+
+Please note, **this operation cannot be undone!**
+
+<div className="info" ></div> A deleted version might contain files that are not referenced by any other version. A future update of Snowtrack will remove these dangling files in the version database.
 
 </div>

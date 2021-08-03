@@ -49,6 +49,11 @@ img[alt*="left"] {
   max-height: 60vh;
 }
 
+.delete {
+  content: url('https://api.iconify.design/ic:twotone-delete-forever.svg?height=20');
+  vertical-align: -0.25em;
+}
+
 .check-mark {
   content: url('https://api.iconify.design/ic:baseline-check-circle.svg?height=24');
   vertical-align: -0.125em;
@@ -94,6 +99,10 @@ html[data-theme="dark"] .revert {
 }
 
 html[data-theme="dark"] .more {
+  filter: invert();
+}
+
+html[data-theme="dark"] .delete {
   filter: invert();
 }
 
