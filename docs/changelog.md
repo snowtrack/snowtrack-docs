@@ -8,6 +8,13 @@ sidebar_label: Changelog
 
 Welcome to the August 2021 release of Snowtrack.
 
+## Version 0.8.93 (Hotfix)
+
+It is highly recommended to install this update.
+
+* **Fix crash** - Fixed a crash of Snowtrack when saving a version.
+* **Application Freeze** - Fixed a UI freeze that occurs when a file is deleted from the working directory.
+
 ## Version 0.8.92
 
 * **Version Info** - Versions show information which files were added, modified or deleted.
