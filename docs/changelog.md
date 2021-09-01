@@ -4,6 +4,39 @@ title: Changelog
 sidebar_label: Changelog
 ---
 
+## September 2021 (Codename Mile-Ex)
+
+Welcome to the September 2021 release of Snowtrack.
+
+* **New Icon** - New icon for the `Create...` menu item in the left side panel
+* **Thumbnail Support** - New Thumbnail support for the following file types:
+
+    - PureRef `*.pur`
+    - EXR `*.exr` (update)
+    - ZBrush `*.ztl`
+
+![ZBrush ZTL](/img/changelog/zbrush-ztl.jpg)
+
+* **Project Filter** - Added a project filter to the left side panel
+
+![Project Filter Menu](/img/changelog/project-filter.jpg)
+
+* **Last modified** - Modification info added to the project list
+
+![Last modified](/img/changelog/last-modified.jpg)
+
+* **Colorized Notifications** - In-app notifications are now colorized depending on their type (info, warning, error)
+
+![Colorized notifications](/img/changelog/error-message.jpg)
+
+* **Drag-and-drop** - Thumbnails now support drag-and-drop
+
+![Colorized notifications](/img/changelog/image-dnd.jpg)
+
+* **Cloud Engine** - Core update to prepare Snowtrack for future cloud storage support*
+
+    **\*** Cloud storage will be an **optional** service. You will be able to use Snowtrack local-only if you wish to do so.
+
 ## August 2021 (Codename Côte-des-Neiges)
 
 Welcome to the August 2021 release of Snowtrack.
