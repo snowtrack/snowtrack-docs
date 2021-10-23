@@ -43,14 +43,12 @@ A fundamental element of Snowtrack are **tracks** (sometimes referred to as **br
 
 ### Version Database
 
-Snowtrack stores file versions in a so-called **version database**. A version database is basically a directory and contains a lot of system files that Snowtrack manages in order to operate.
+When you create a project, you can choose where your file backups will be stored. This can be in one of the following two locations:
 
-When you create a project, you can choose where the version database is stored.
-
-- Either stored inside the _**global**_ **version database**, or ...
+- Inside the **version database**
 
     In that case, the entire project (including all file versions) can be restored, even if you delete your project directory.
 
-- ... or placed directly inside your project directory (_**local**_ **version database**).
+- Inside the **project directory**:
 
     In that case, Snowtrack creates a hidden directory called `.snow` in your project directory. This is the **local** version database. For more information on this topic, check out the page [Get started](get-started.md).
