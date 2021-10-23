@@ -4,9 +4,7 @@ title: Changelog
 sidebar_label: Changelog
 ---
 
-## September 2021 (Codename Mile-Ex)
-
-Welcome to the September 2021 release of Snowtrack.
+## Codename Mile-Ex
 
 ## Version 0.9.14
 
@@ -39,9 +37,7 @@ Welcome to the September 2021 release of Snowtrack.
 
     **\*** Cloud storage will be an **optional** service. You will be able to use Snowtrack local-only if you wish to do so.
 
-## August 2021 (Codename Côte-des-Neiges)
-
-Welcome to the August 2021 release of Snowtrack.
+## Codename Côte-des-Neiges
 
 ## Version 0.8.93 (Hotfix)
 
@@ -68,9 +64,7 @@ It is highly recommended to install this update.
 * **\*.snowproj don't unpack on start** - Snowtrack might not unpack a `*.snowproj` file on double-click.
 * **Other** - Several minor speed and UI/UX improvements.
 
-## July 2021 (Codename Rosemont)
-
-Welcome to the July 2021 release of Snowtrack.
+## Codename Rosemont
 
 ## Version 0.8.75
 
@@ -94,9 +88,7 @@ Welcome to the July 2021 release of Snowtrack.
 | ----------------------------------------- | ---------------------------------------- |
 | ![Before](/img/changelog/old-restore.gif) | ![After](/img/changelog/new-restore.gif) |
 
-## June 2021 (Codename Le Plateau)
-
-Welcome to the June 2021 release of Snowtrack.
+## Codename Le Plateau
 
 ## Version 0.8.54
 
@@ -128,9 +120,7 @@ Website | [chrishalldraws.com](https://chrishalldraws.com)
 
 ![Project Tiger](/img/changelog/demo-project-tiger.jpg)
 
-## May 2021 (Codename Glenmount)
-
-Welcome to the May 2021 release of Snowtrack.
+## Codename Glenmount
 
 ## Version 0.8.27
 
@@ -232,9 +222,7 @@ Snowtrack is heavily optimized to load projects with several thousand files. Loa
 
 ---
 
-## April 2021 (Codename Verdun)
-
-Welcome to the April 2021 release of Snowtrack.
+## Codename Verdun
 
 ## Version 0.8.4
 
