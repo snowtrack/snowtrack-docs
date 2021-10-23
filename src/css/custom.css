@@ -17,10 +17,6 @@
   --ifm-code-font-size: 95%;
 }
 
-:root[data-theme='dark'] {
-  background-color: #111213; /* same as snowtrack.io */
-}
-
 /* By default, the dark/light mode switch is only available
 in the desktop view. */
 .navbar__items--right > div {
