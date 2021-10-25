@@ -19,7 +19,7 @@ module.exports = {
     navbar: {
       title: 'Snowtrack Documentation',
       logo: {
-        alt: 'Snowtrack Logo',
+        alt: 'Snowtrack',
         href: 'https://www.snowtrack.io/',
         src: './static/logo.png',
         target: '_self'
