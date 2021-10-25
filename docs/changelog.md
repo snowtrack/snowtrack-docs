@@ -4,6 +4,37 @@ title: Changelog
 sidebar_label: Changelog
 ---
 
+## Codename Summit Woods
+
+## Version 0.9.25
+
+* **New application logo**
+
+![App Logo](/img/changelog/new-app-logo.png)
+<div style={{width: "300px", margin: "auto", textAlign: "center"}}>
+Snowtrack comes now with an app logo that evolves as the software evolves.
+<br/><br/><br/>
+</div>
+
+* **Dialogs** Overhaul of the *Create Project..* dialog
+
+![Create Project Dialog](/img/create-project.png)
+
+* **Performance**: I/O performance on NAS servers up to 1.5 times
+* **Cloud Services**: Improvements for projects that are stored on Adobe Cloud, Dropbox and Google Drive
+* **Tracks** New colors for tracks
+* **Thumbnail Support** - New Thumbnail support for files of the following apps:
+
+  * Figma
+  * Sketch
+  * Adobe XD
+  * Corel Painter
+
+* **Compatibility** - Compatibility with standalone plugins for *Cinema 4D* and *Blender*
+* **Bugfix** Fixed an issue with Dropbox on MacOS
+* **Bugfix** Fixed an issue when exporting a project
+
+
 ## Codename Mile-Ex
 
 ## Version 0.9.14
