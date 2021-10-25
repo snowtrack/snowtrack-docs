@@ -10,7 +10,7 @@ This chapter contains definitions of common terms, words, and technical jargon.
 
 Snowtrack thinks in directories. Each project has a main directory, also known as the **working directory**, or simply, **workspace**. This can be your 3D scene with hundreds of textures and scene files, or a 2D project with a single file. A typical project structure could look like this:
 
-```
+```text
  / my-3d-project
  |
  +- /assets
@@ -25,32 +25,26 @@ Snowtrack thinks in directories. Each project has a main directory, also known a
 
 For more information see [Project Info](project.md).
 
-
 ### Version Control, or Version Tracking
 
 Version control originates from software engineering and is the process of managing and organizing changes in software development. Existing version control solutions are difficult to understand and require a deep technical knowledge. With Snowtrack, graphic designers and artists finally have an easy-to-use and intuitive alternative.
-
 
 ### Version or Snapshot
 
 A version (or snapshot or project iteration) represents a directory at the time the version was created. In each project you can revert to any past version and your project directory will change its content accordingly.
 
-
 ### Track or Branch
 
 A fundamental element of Snowtrack are **tracks** (sometimes referred to as **branches**). For more information see [Tracks](tracks.md).
 
-
 ### Version Database
 
-Snowtrack stores file versions in a so-called **version database**. A version database is basically a directory and contains a lot of system files that Snowtrack manages in order to operate.
+When you create a project, you can choose where your file backups will be stored. This can be in one of the following two locations:
 
-When you create a project, you can choose where the version database is stored.
+- Inside the **version database**
 
-- Either stored inside the _**global**_ **version database**, or ...
+  In that case, the entire project (including all file versions) can be restored, even if you delete your project directory.
 
-    In that case, the entire project (including all file versions) can be restored, even if you delete your project directory.
+- Inside the **project directory**:
 
-- ... or placed directly inside your project directory (_**local**_ **version database**).
-
-    In that case, Snowtrack creates a hidden directory called `.snow` in your project directory. This is the **local** version database. For more information on this topic, check out the page [Get started](get-started.md).
+  In that case, Snowtrack creates a hidden directory called `.snow` in your project directory. This is the **local** version database. For more information on this topic, check out the page [Get started](get-started.md).
