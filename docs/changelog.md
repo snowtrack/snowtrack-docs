@@ -137,9 +137,9 @@ It is highly recommended to install this update.
 
 * **Performance** - Discarding changes is up to 10x times faster.
 * **[Stability](https://github.com/Snowtrack/SnowFS/issues/183)** - Prevent errors that prevent Snowtrack from operating.
-* **Manage Projects** - A *globe* icon indicates if the versions of a project are stored in the [global version database](terminology.md#version-database).
+* **Manage Projects** - A *globe* icon indicates if the versions of a project are stored in the [version database](terminology.md#version-database).
 
-![Global Version Database Icon](/img/manage-projects-1.png)
+![Version Database Icon](/img/manage-projects-1.png)
 
 #### Demo Projects
 
