@@ -21,7 +21,7 @@ To create a new project click on the option **Create...** on the top-left side o
 
 ### Your existing folder
 
-To track an existing project folder either click on the **Open...** option on the top-left side of your menu, or drag and drop the directory into the Snowtrack window. 
+To track an existing project folder click on the **Open...** command on the top-left side of your menu, or drag and drop the directory into the Snowtrack window. 
 
 If the folder is already a Snowtrack project, it will open it. If it is a directory Snowtrack has not encountered yet, the dialog window below will pop up. After confirming, the project will become a Snowtrack project.
 
@@ -30,15 +30,18 @@ If the folder is already a Snowtrack project, it will open it. If it is a direct
 Should the project folder contain files, they will not be modified. Creating a project from an existing folder has no effect on the contents of that folder.
 
 
-### Advanced
+### Location of file versions
 
-#### ☑️ Store version database inside the project directory
+In order to protect your files, Snowtrack copies all file versions of your versions to another location. You can choose between two locations to which they can be copied.
 
-> ⚠️ If enabled, anybody you send this project to can see the version history and inspect all files you ever created for this project.
+**A) Inside the Version Database**:
 
-If the option above is unchecked, Snowtrack places a hidden file inside your project directory called `.snow`. This file can be opened using with a regular text-editor. It contains the path and location of your version database. When sharing your project directory with someone else only the current files are available.
+By default, Snowtrack stores all files inside a version database that got created when you installed Snowtrack the first time. You can find the paths [here](backups.md).
 
-If the option above is checked, Snowtrack places a directory inside your project directory called `.snow`. This is where Snowtrack stores your older file versions and restores them from. When sharing your project directory with someone else (without excluding the `.snow` directory) all versions of your files are available.
+**B) Inside the Project Directory**:
 
-Be aware of this feature to ensure you only share the files you want.
+Alternatively, you can keep all file iterations inside your project directory. In this case Snowtrack creates a hidden folder named *.snow* inside your project directory.  This is useful if your project is synced to a cloud service like Google Drive or Dropbox, or if your version database is not already located on a NAS server.
 
+For convinience, Snowtrack is able to detect folders of *Dropbox*, *Adobe Cloud*, and *Google Drive* and chhanges the default location for the file versions to *"Inside the Project Directory*".
+
+![Existing Project Dialog](/img/folder-detected.png)

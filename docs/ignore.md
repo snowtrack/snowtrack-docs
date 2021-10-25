@@ -8,7 +8,7 @@ Your project directory can contain a variety of different files. Depending on yo
 
 <div className="block">
 
-![left](/img/ignore-1.png) To ignore an item switch first to the **Unsaved items** entry in the left column.
+![left](/img/ignore-1.png) To ignore an item switch first to the **Changed files** entry in the left column.
 
 </div>
 
