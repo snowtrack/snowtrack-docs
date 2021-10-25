@@ -25,7 +25,7 @@ To track an existing project folder either click on the **Open...** option on th
 
 If the folder is already a Snowtrack project, it will open it. If it is a directory Snowtrack has not encountered yet, the dialog window below will pop up. After confirming, the project will become a Snowtrack project.
 
-![Existing Project Dialog](/img/create-project-2.png)
+![Existing Project Dialog](/img/create-project.png)
 
 Should the project folder contain files, they will not be modified. Creating a project from an existing folder has no effect on the contents of that folder.
 
