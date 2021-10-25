@@ -16,6 +16,10 @@ Snowtrack comes now with an app logo that evolves as the software evolves.
 <br/><br/><br/>
 </div>
 
+* **Create Version** The old *"Save"* button is now labeled as *"Create Version"*
+
+![Create Project Dialog](/img/ignore-1.png) 
+
 * **Dialogs** Overhaul of the *Create Project..* dialog
 
 ![Create Project Dialog](/img/create-project.png)
