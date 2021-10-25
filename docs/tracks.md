@@ -20,7 +20,7 @@ In Snowtrack Tracks are created automatically when needed. Check out the followi
 
 <div className="block">
 
-![left](/img/track-create-1.png) As you can see in the image on the left, the project directory is currently in sync with **`Final camera + render`** and no unsaved items are present.
+![left](/img/track-create-1.png) As you can see in the image on the left, the project directory is currently in sync with **`Final camera + render`** and no unchanged files are present.
 
 </div>
 

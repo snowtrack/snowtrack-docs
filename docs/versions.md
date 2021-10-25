@@ -22,25 +22,25 @@ In Snowtrack, the left column represents the project timeline and shows all vers
 
 #### Restore Files
 
-<span className="revert" /> You can change all files and directories to the ones from that version by clicking the restore button. If there are unsaved changes present in your working directory you will be asked to save or discard these changes before you proceed.
+<span className="revert" /> You can change all files and directories to the ones from that version by clicking the restore button. If there are unchanged files present in your working directory you will be asked to save or discard these changes before you proceed.
 
 </div>
 
 <div className="block">
 
-### Unsaved items
+### Changed files
 
-![left](/img/unsaved-items.png)
+![left](/img/changed-files.png)
 
-If a file modification is detected in your working directory, Snowtrack will indicate this by creating an entry called **Unsaved items**. Inspect the changes by clicking on this entry.
+If a file modification is detected in your working directory, Snowtrack will indicate this by creating an entry called **Changed files**. Inspect the changes by clicking on this entry.
 
-Use the **Save** button to save your changes and create a new version.
+Use the **Create Version** button to create a new version.
 
-Snowtrack will copy these changes to the version database of your project to be inspected or restored later. This process may take a few seconds up to a few minutes, depending on the size and complexity of the changes involved.
+Snowtrack will copy these changes to the version database to protect them from further modifications. This process may take a few seconds, up to a few minutes, depending on the size and complexity of the changes involved.
 
-If a 3rd-party application is in the the middle of adding changes to your working directory while you press the **Save** button, Snowtrack will detect this, and inform you to repeat the saving process.
+If a 3rd-party application is in the the middle of adding changes to your working directory while you press the **Create Version** button, Snowtrack will detect this, and inform you to repeat the saving process.
 
-After you press the **Save** button, it is highly recommended to wait until Snowtrack has completed saving your files. Interfering with the saving process while Snowtrack is still copying files might result in a cancelled save operation and corrupt the integrity of the version database.
+After you press the **Create Version** button, it is highly recommended to wait until Snowtrack has completed backing up your files.
 
 #### System-wide shortcuts
 
