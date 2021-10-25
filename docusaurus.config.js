@@ -21,7 +21,7 @@ module.exports = {
       logo: {
         alt: 'Snowtrack',
         href: 'https://www.snowtrack.io/',
-        src: './static/logo.png',
+        src: 'https://www.snowtrack.io/logo.png',
         target: '_self'
       },
       items: [
