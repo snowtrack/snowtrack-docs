@@ -10,6 +10,7 @@ sidebar_label: Changelog
 
 * **Bugfix** Snowtrack failed to revert to an older version on some Windows machines
 * **Bugifx** Fixed a crash when generating a preview on Windows
+* **Thumbnail Support** - New Thumbnail support for DDS files
 
 ## Version 0.9.25
 
