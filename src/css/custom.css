@@ -17,7 +17,7 @@
   --ifm-code-font-size: 95%;
 }
 
-html[data-theme="dark"] .navbar__brand > img {
+html[data-theme="dark"] .navbar__logo > img {
   filter: invert(1);
 }
 
@@ -39,7 +39,6 @@ in the desktop view. */
 img {
   display: block;
   margin: 0 auto;
-  max-width: 75%;
 }
 
 img[alt*="full"] { 
