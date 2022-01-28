@@ -6,6 +6,12 @@ sidebar_label: Changelog
 
 ## Codename Summit Woods
 
+## Version 0.9.26
+
+* **Bugfix** Snowtrack failed to revert to an older version on some Windows machines
+* **Bugfix** Fixed a crash when generating a preview on Windows
+* **Thumbnail Support** - New Thumbnail support for DDS files
+
 ## Version 0.9.25
 
 * **New application logo**
