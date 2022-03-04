@@ -30,10 +30,11 @@ This documentation helps you getting started with Snowtrack.
 
 - Versions can be managed by Snowtrack or stored inside a project directory.
 
-
 ## Privacy
 
-Snowtrack Inc. does not collect data from this app. The application does not require an internet connection to run. However, it is recommended to enable the **Check automatically for updates** option during the welcome wizard or in the app preferences.
+Snowtrack follows the principles of [Privacy by Design](https://en.wikipedia.org/wiki/Privacy_by_design). We do not use any third-party metrics software. Our handcrafted tool ensures no personally identifiable information or information about your work is transmitted at any point.
+
+See [usage](usage.md) for a full breakdown of telemetry options.
 
 ## How to contribute?
 
