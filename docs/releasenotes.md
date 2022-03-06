@@ -144,22 +144,21 @@ Open and diff changes of scripts and config files directly in Snowtrack.
 
 A big big ***Thank You*** 🎉 goes to everyone who helped with feedback and bug-reports to bring Snowtrack alive:
 
-- :beer: Daniel Lanner [(LinkedIn)](https://www.linkedin.com/in/daniellanner/)
-- :dove: Vartika Manasvi [(Twitter)](https://twitter.com/vmanasvi)
-- :ninja: David Drayton [(Portfolio)](https://www.strangerobjects.com)
-- :space_invader: Cedric Profijt - [(ArtStation)](https://www.artstation.com/cedricprofijt), [(IMDb)](https://www.imdb.com/name/nm5927282/)
-- :metal: Flo Tasser [(ArtStation)](https://www.artstation.com/flotasser/)
-- :man_mechanic: Carlos Barreto [(Twitter)](https://twitter.com/carlosedubarret)
-- :muscle: Alex Ray [(Portfolio)](https://alex-ray.ru/)
-- :100: Derek Rein [(Portfolio)](https://www.derekvfx.ca/) [(IMDb)](https://www.imdb.com/name/nm4415449/)
-- :dog: Gilles Augustijnen [(Portfolio)](https://www.kapital.tv)
-- :monocle_face: Prasoon Dhapola [(Portfolio)](https://www.artstation.com/prasoon_dhapola)
-- :video_game: Glen Johnson [(Behance)](https://www.behance.net/glenjohnson1353)
-- :mage: Jonathan Dupré [(Portfolio)](https://jonathandupre.com/)
-- :clown_face: Declan McPartlin [(LinkedIn)](https://www.linkedin.com/in/declan-mcpartlin-84b45769)
-- :bomb: Yegor [(ArtStation)](https://www.artstation.com/yegor_r)
-- :tiger: Andrei Gîrbu [(LinkedIn)](https://www.linkedin.com/in/andrei-g%C3%AErbu-416435158/)
-- :man_dancing: Bernd Winkelmann
-- :monocle_face: Jan Frischmuth
-- :purple_square: The DMZ [(Webpage)](https://dmz.ryerson.ca/)
-- :green_circle: The OSS Community
+- 🕊 Vartika Manasvi [(Twitter)](https://twitter.com/vmanasvi)
+- 🥷 David Drayton [(Portfolio)](https://www.strangerobjects.com)
+- 👾 Cedric Profijt - [(ArtStation)](https://www.artstation.com/cedricprofijt), [(IMDb)](https://www.imdb.com/name/nm5927282/)
+- 🦾 Flo Tasser [(ArtStation)](https://www.artstation.com/flotasser/)
+- 👨‍🔧 Carlos Barreto [(Twitter)](https://twitter.com/carlosedubarret)
+- 💪🏼 Alex Ray [(Portfolio)](https://alex-ray.ru/)
+- 💯 Derek Rein [(Portfolio)](https://www.derekvfx.ca/) [(IMDb)](https://www.imdb.com/name/nm4415449/)
+- 🐶 Gilles Augustijnen [(Portfolio)](https://www.kapital.tv)
+- 🧐 Prasoon Dhapola [(Portfolio)](https://www.artstation.com/prasoon_dhapola)
+- 🎮 Glen Johnson [(Behance)](https://www.behance.net/glenjohnson1353)
+- 🧙‍♂️ Jonathan Dupré [(Portfolio)](https://jonathandupre.com/)
+- 🤡 Declan McPartlin [(LinkedIn)](https://www.linkedin.com/in/declan-mcpartlin-84b45769)
+- 🎬 Yegor [(ArtStation)](https://www.artstation.com/yegor_r)
+- 🤪 Andrei Gîrbu [(LinkedIn)](https://www.linkedin.com/in/andrei-g%C3%AErbu-416435158/)
+- 🕺 Bernd Winkelmann
+- 🧐 Jan Frischmuth
+- 🟪 The DMZ [(Webpage)](https://dmz.ryerson.ca/)
+- 🟢 The OSS Community
