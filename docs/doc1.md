@@ -8,7 +8,7 @@ slug: /
 
 ## What is Snowtrack?
 
-![Snowtrack Screenshot](https://www.snowtrack.io/wp-content/uploads/2021/05/snowtrack-screenshot.png)
+![Snowtrack Screenshot](https://www.snowtrack.io/images/gaspe.png)
 
 Snowtrack is an easy-to-use version control software for graphic projects built to help you manage your file and project versions. Snowtrack supports all file types and has extensive [support](file-support.md) for a variety of 2D and 3D file formats.
 
