@@ -149,6 +149,7 @@ A big big ***Thank You*** 🎉 goes to everyone who helped with feedback and bug
 - :ninja: David Drayton [(Portfolio)](https://www.strangerobjects.com)
 - :space_invader: Cedric Profijt - [(ArtStation)](https://www.artstation.com/cedricprofijt), [(IMDb)](https://www.imdb.com/name/nm5927282/)
 - :metal: Flo Tasser [(ArtStation)](https://www.artstation.com/flotasser/)
+- :man_mechanic: Carlos Barreto [(Twitter)](https://twitter.com/carlosedubarret)
 - :muscle: Alex Ray [(Portfolio)](https://alex-ray.ru/)
 - :100: Derek Rein [(Portfolio)](https://www.derekvfx.ca/) [(IMDb)](https://www.imdb.com/name/nm4415449/)
 - :dog: Gilles Augustijnen [(Portfolio)](https://www.kapital.tv)
