@@ -4,12 +4,6 @@ title: Project Versions
 sidebar_label: Project Versions
 ---
 
-:::caution
-
-The content of this documentation still contains references to Snowtrack [v0.9](0.9/). The documentation update for `v0.10` is still in progress.
-
-:::
-
 <div className="block">
 
 ## Timeline
@@ -27,7 +21,7 @@ In Snowtrack, the left column represents the project timeline and shows all vers
 
 #### Restore Files
 
-<span className="revert" /> You can change all files and directories to the ones from that version by clicking the restore button. If there are unchanged files present in your working directory you will be asked to save or discard these changes before you proceed.
+<span className="revert" /> You can restore all files and directories by clicking the restore button. If there are unchanged files present in your working directory you will be asked to save or discard these changes before you proceed.
 
 </div>
 
