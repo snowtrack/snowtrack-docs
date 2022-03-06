@@ -19,7 +19,7 @@ A lot of creators share the final project file of a tutorial with their audience
 
 ## How do I start?
 
-The chapter [Getting started](get-started.md) guides you through the basics of Snowtrack.
+The chapter [Getting started](getting-started.md) guides you through the basics of Snowtrack.
 
 ## How do I export?
 

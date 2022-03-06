@@ -47,4 +47,4 @@ When you create a project, you can choose where your file backups will be stored
 
 - Inside the **project directory**:
 
-  In that case, Snowtrack creates a hidden directory called `.snow` in your project directory. This is the **local** version database. For more information on this topic, check out the page [Get started](get-started.md).
+  In that case, Snowtrack creates a hidden directory called `.snow` in your project directory. This is the **local** version database. For more information on this topic, check out the page [Get started](getting-started.md).

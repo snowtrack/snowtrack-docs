@@ -3,7 +3,7 @@ module.exports = {
     Overview: [
       'doc1',
       'terminology',
-      'get-started',
+      'getting-started',
       'releasenotes',
       'faqs'
     ],
