@@ -15,8 +15,8 @@ Snowtrack can handle and version every filetype. However, there are some files t
 | [Maxon Cinema 4D](https://www.maxon.net)                                          | ✅     | ✅      | 🟠     |
 | [Adobe Photoshop](https://www.adobe.com/ca/products/photoshop.html)               | ✅     | ✅      | ✅     |
 | [Adobe Illustrator](https://www.adobe.com/ca/products/illustrator.html)           | ✅     | ✅      | ✅     |
-| [Adobe XD](https://www.adobe.com/ca/products/xd.html)                             | ✅     | ✅      | ✅     |
-| [Adobe After Effects](https://www.adobe.com/ca/products/aftereffects.html)        | ✅     | ✅      | ✅     |
+| [Adobe XD](https://www.adobe.com/ca/products/xd.html)                             | ✅     | ✅      |      |
+| [Adobe After Effects](https://www.adobe.com/ca/products/aftereffects.html)        | 🟠     | 🟠      | 🟠     |
 | [Pixelmator Pro](https://www.pixelmator.com)                                      | ✅     | ✅      |        |
 | [Substance Designer](https://www.adobe.com/ca/products/substance3d-designer.html) | ✅     | ✅      | 🟠     |
 | [Substance Painter](https://www.adobe.com/ca/products/substance3d-painter.html)   | ✅     | ✅      | 🟠     |
