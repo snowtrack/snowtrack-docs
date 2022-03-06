@@ -4,7 +4,7 @@ module.exports = {
       'doc1',
       'terminology',
       'get-started',
-      'changelog',
+      'releasenotes',
       'faqs'
     ],
     Basics: [
