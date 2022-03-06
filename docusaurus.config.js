@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'https://www.snowtrack.io/wp-content/uploads/2020/12/cropped-logo-1-32x32.png',
+  favicon: 'https://www.snowtrack.io/images/favicons/favicon.ico',
   noIndex: true,
   organizationName: 'Snowtrack', // Usually your GitHub org/user name.
   projectName: 'Snowtrack-docs', // Usually your repo name.
@@ -13,8 +13,8 @@ module.exports = {
     colorMode: {
       switchConfig: {
         darkIcon: '💡',
-        lightIcon: '🌙',
-      },
+        lightIcon: '🌙'
+      }
     },
     navbar: {
       title: 'Snowtrack Documentation',
@@ -25,34 +25,12 @@ module.exports = {
         target: '_self'
       },
       items: [
-        /*
         {
           type: 'docsVersionDropdown',
-
-          //// Optional
-          position: 'left',
-          // Add additional dropdown items at the beginning/end of the dropdown.
-          dropdownItemsBefore: [],
-          dropdownItemsAfter: [{to: '/versions', label: 'All versions'}],
-          // Do not add the link active class when browsing docs.
+          position: 'right',
           dropdownActiveClassDisabled: true,
           docsPluginId: 'default',
-        },
-        */
-        /*
-        {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
-          position: 'left',
-        },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
-        */
+        }
       ],
     },
     footer: {
@@ -102,6 +80,16 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          lastVersion: 'current',
+          versions: {
+            current: {
+              label: 'v0.10 (Cap Gaspé)'
+            },
+            '0.9': {
+              label: 'v0.9 (Summer Woods)',
+              path: '0.9',
+            },
+          },
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
