@@ -4,9 +4,12 @@ title: Cloud Storage
 sidebar_label: Cloud Storage
 ---
 
-### Dropbox and Google Drive
 
-We are currently evaluating how to natively support Google Drive and Dropbox in Snowtrack. If you already want to save your projects inside a directory that is synced with a cloud storage service, please be aware of the technical implications this might have as outlined below.
+:::caution
+
+The content of this documentation still contains references to Snowtrack [v0.9](0.9/). The documentation update for `v0.10` is still in progress.
+
+:::
 
 #### Version database inside the project directory
 

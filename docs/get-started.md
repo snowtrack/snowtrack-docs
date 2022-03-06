@@ -5,6 +5,14 @@ sidebar_label: Getting started
 slug: /get-started
 ---
 
+
+:::caution
+
+The content of this documentation still contains references to Snowtrack [v0.9](0.9/). The documentation update for `v0.10` is still in progress.
+
+:::
+
+
 Snowtrack offers two ways of tracking your work:
 
 1. Create a new project within Snowtrack.

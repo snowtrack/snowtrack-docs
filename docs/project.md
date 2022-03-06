@@ -4,6 +4,11 @@ title: Project Info
 sidebar_label: Project Info
 ---
 
+:::caution
+
+The content of this documentation still contains references to Snowtrack [v0.9](0.9/). The documentation update for `v0.10` is still in progress.
+
+:::
 
 <div className="block">
 

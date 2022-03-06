@@ -4,6 +4,12 @@ title: Ignore Items
 sidebar_label: Ignore Items
 ---
 
+:::caution
+
+The content of this documentation still contains references to Snowtrack [v0.9](0.9/). The documentation update for `v0.10` is still in progress.
+
+:::
+
 Your project directory can contain a variety of different files. Depending on your personal preference you might want to exclude some of them. After an item is ignored, it is ignored by any operation by Snowtrack. This means, restoring a version or discarding changes leaves them untouched. Snowtrack ignores a variety of unwanted files by default. You can find this list [here](https://github.com/Snowtrack/SnowFS/blob/main/src/ignore.ts).
 
 <div className="block">

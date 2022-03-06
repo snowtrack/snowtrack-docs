@@ -4,6 +4,12 @@ title: Manage Projects
 sidebar_label: Manage Projects
 ---
 
+:::caution
+
+The content of this documentation still contains references to Snowtrack [v0.9](0.9/). The documentation update for `v0.10` is still in progress.
+
+:::
+
 ![full](/img/manage-projects.png)
 
 The sidebar in Snowtrack contains an option called **Manage...** that allows you to organize your projects.

@@ -4,6 +4,13 @@ title: File Support
 sidebar_label: File Support
 ---
 
+
+:::caution
+
+The content of this documentation still contains references to Snowtrack [v0.9](0.9/). The documentation update for `v0.10` is still in progress.
+
+:::
+
 Snowtrack can versionize all files that are part of your project directory.
 Below is a list of files that can display a thumbnail of their content:
 
