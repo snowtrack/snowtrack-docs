@@ -47,15 +47,6 @@ If a 3rd-party application is in the the middle of adding changes to your workin
 
 After you press the **Create Version** button, it is highly recommended to wait until Snowtrack has completed backing up your files.
 
-#### System-wide shortcuts
-
-<div className="info" ></div>
-
-Snowtrack registers a system-wide shortcut on startup. By pressing `CMD+Shift+1` on macOS, and `Alt+Shift+1` on Windows you can create a new version while Snowtrack is running in the background. The project for which you want to create the version must be open in Snowtrack. Every new version is confirmed by an OS-notification:
-
-![left](/img/notification-macos.jpg)
-![left](/img/notification-win.jpg)
-
 </div>
 
 <div className="block">

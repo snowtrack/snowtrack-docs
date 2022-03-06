@@ -21,10 +21,6 @@ A lot of creators share the final project file of a tutorial with their audience
 
 The chapter [Getting started](get-started.md) guides you through the basics of Snowtrack.
 
-<div className="info" ></div>
-
-If you plan to use Snowtrack during a video tutorial, you don't need to switch back and forth between your graphic application and Snowtrack to create a new version. You can create new versions within **Photoshop**, **Blender**, **Cinema 4D**, **Pixelmator**, **Affinity Photo**, .. and many more by using a system-wide shortcut. Check out this [chapter](versions.md#system-wide-shortcuts) for more information.
-
 ## How do I export?
 
 Since version `0.8.75` you can export versions to a `*.snowproj` file and share it. Click on the export icon in the bar above the left project timeline. A dropdown menu will offer you the option to export all tracks, or just an individual one.
