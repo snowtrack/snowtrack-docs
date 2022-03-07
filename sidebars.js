@@ -19,7 +19,7 @@ module.exports = {
     Advanced: [
       'backups',
       'file-systems',
-      'how-does-snowtrack-work',
+      'behind-the-scenes',
     ],
     Knowledgebase: [
       'snowtrack-for-tutorials',

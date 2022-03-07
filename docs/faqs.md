@@ -18,7 +18,7 @@ No, Snowtrack works perfectly fine when offline since all files and versions of 
 
 ### What is Snowtrack based on?
 
-Snowtrack is based on SnowFS, our open-source community project. For more information check out [How does Snowtrack work](how-does-snowtrack-work.md).
+Snowtrack is based on SnowFS, our open-source community project. For more information check out [How does Snowtrack work](behind-the-scenes.md).
 
 ### Where does Snowtrack keep all my file versions?
 

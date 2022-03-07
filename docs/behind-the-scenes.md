@@ -1,5 +1,5 @@
 ---
-id: how-does-snowtrack-work
+id: behind-the-scenes
 title: Behind the Scenes
 sidebar_label: Behind the Scenes
 ---
