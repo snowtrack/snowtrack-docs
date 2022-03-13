@@ -5,7 +5,7 @@ title: Usage
 
 ## Privacy by Design
 
-Snowtrack follows the principles of [Privacy by Design](https://en.wikipedia.org/wiki/Privacy_by_design). We do not use any third-party metrics software. Our handcrafted tool ensures no personally identifiable information or information about your work is transmitted at any point.
+Snowtrack follows the principles of [Privacy by Design](https://en.wikipedia.org/wiki/Privacy_by_design). We do not use any third-party metrics software. Our handcrafted anonymous telemetry system ensures no personally identifiable information or information about your work is transmitted at any point.
 
 ## Share Essentials
 
