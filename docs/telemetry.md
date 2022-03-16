@@ -1,6 +1,6 @@
 ---
-id: usage
-title: Usage
+id: telemetry
+title: Telemetry
 ---
 
 ## Privacy by Design

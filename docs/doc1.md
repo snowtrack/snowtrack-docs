@@ -34,7 +34,7 @@ This documentation helps you getting started with Snowtrack.
 
 Snowtrack follows the principles of [Privacy by Design](https://en.wikipedia.org/wiki/Privacy_by_design). We do not use any third-party metrics software. Our handcrafted anonymous telemetry system ensures no personally identifiable information or information about your work is transmitted at any point.
 
-See [usage](usage.md) for a full breakdown of telemetry options.
+See [telemetry](telemetry.md) for a full breakdown of telemetry options.
 
 ## How to contribute?
 
