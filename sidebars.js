@@ -27,6 +27,7 @@ module.exports = {
       'uninstall'
     ],
     Appendix: [
+      'telemetry',
       'system-requirements',
     ]
   },
