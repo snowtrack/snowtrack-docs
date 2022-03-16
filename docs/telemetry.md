@@ -1,22 +1,25 @@
 ---
 id: telemetry
-title: Telemetry
+title: Telemetry that doesn't suck
+sidebar_label: Telemetry
 ---
 
 ## Privacy by Design
 
-Snowtrack follows the principles of [Privacy by Design](https://en.wikipedia.org/wiki/Privacy_by_design). We do not use any third-party metrics software. Our handcrafted anonymous telemetry system ensures no personally identifiable information or information about your work is transmitted at any point.
+Snowtrack follows the principles of [Privacy by Design](https://en.wikipedia.org/wiki/Privacy_by_design). We do not use any third-party metrics software. Our handcrafted anonymous telemetry system ensures **no personally identifiable** information or information about your work is ever transmitted.
+
+The data shared by Snowtrack is so anonymous, we wouldn't know if the shared usage data is from your neighbour, or someone on the other side of the planet.
 
 ## Share Essentials
 
 *Essentials* help us identify where improvements have to be made. We track errors, application health and basic navigation of the application to verify all works as expected. The telemetry is concerned with load, performance and usage metrics, exception reports, and other diagnostic data.
 
-### What we share
+### What your app shares with us
 
 - Runtime errors
 - Basic usage
 
-### What we do **not** share
+### What your app will never share with us
 
 - Personal information
 - Location
@@ -30,13 +33,13 @@ Snowtrack follows the principles of [Privacy by Design](https://en.wikipedia.org
 
 We are currently working on dedicated collaboration features for Snowtrack. In order to provide a smooth experience when working with others, we are measuring the following properties:
 
-### What we share
+### What your app shares with us
 
 - Essentials
 - Number of files per version
 - File sizes per version
 
-### What we do **not** share
+### What your app will never share with us
 
 - Same as essentials
 - File names
@@ -47,9 +50,9 @@ We are currently working on dedicated collaboration features for Snowtrack. In o
 
 Open the settings window at `File > Preferences`. Select your profile for *Share Experience*.
 
-- **None** - Turn off all telemetry
+- **None** - 😢 Turn off all telemetry
 - **Essentials** - Share essential telemetry
-- **Insights** - Share insights telemetry
+- **Insights** - 😍 Share insights telemetry
 
 ## How long is the data kept?
 
