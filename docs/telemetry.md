@@ -8,7 +8,11 @@ sidebar_label: Telemetry
 
 Snowtrack follows the principles of [Privacy by Design](https://en.wikipedia.org/wiki/Privacy_by_design). We do not use any third-party metrics software. Our handcrafted anonymous telemetry system ensures **no personally identifiable** information or information about your work is ever transmitted.
 
-> The data shared by Snowtrack is so anonymous, we wouldn't know if the shared usage data is from you, your neighbour, or someone on the other side of the planet.
+:::info
+
+All data shared by Snowtrack is so anonymous, we wouldn't know if the shared usage data is from you, your neighbour, or someone on the other side of the planet.
+
+:::
 
 ## Share Essentials
 
