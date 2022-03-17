@@ -8,6 +8,64 @@ sidebar_label: Release Notes
 
 Welcome to the new beta of Snowtrack - Codename *Cap Gaspé*. There are plenty of new features, UI improvements and bugfixes that are ready to be discovered. Here is a brief overview over major new features:
 
+
+## Version 0.10.54
+
+- :star: Add support for project templates.
+- :star: Add PDF support.
+- :star: Updated UV map in 3D editor.
+- :star: Snowtrack window can be resized down to 512px.
+- :star: Added preference to change path of version database.
+- :star: New user interface for preferences.
+- :racehorse: Massive performance boost for loading projects.
+- :bug: Removed flicker on window focus.
+- :bug: Remove flicker of labels and icons while scrolling.
+- :bug: Rename failed when changing letter casing.
+- :bug: Application title is always labeled *Dashboard*
+- :bug: Version items don't have an icon or suffix label.
+- :bug: Drive G: incorrectly displayed as cloud service on Windows.
+- :bug: Drive G: missing from volumes on Windows.
+- :bug: Fix window size issues on Macbook Pro.
+- :bug: Fixed empty labels for USB drives in sidebar.
+- :bug: Updated outdated ".snowproj" icon.
+- :bug: Remove trailing backslash of network drives in sidebar on Windows.
+- :bug: Fixed Incorrect open dialog in *Create Project* dialog.
+- :bug: Fixed project name issue in *Create Project* dialog.
+- :memo: Added a [telemetry system](https://www.snowtrack.io/docs/telemetry) system that **doesn't** suck.
+
+## Version 0.10.48
+
+- :star: New [Apple M1](#apple-m1-support) support.
+- :star: Added option to hide sensitive data in the UI.
+- :star: Restored :arrow_up:/:arrow_down: button for project items.
+- :racehorse: Massive scrolling and navigation speedup.
+- :racehorse: Increased FPS in 3D viewport by up to 50%.
+- :racehorse: Improved volume detection for macOS and Windows.
+- :bug: Fixed stuck progress loader in 3D view.
+- :bug: Fixed mounted ISO incorrectly detected as Google Drive.
+- :bug: Fixed empty address bar on macOS.
+- :bug: Fixed UI issue with emoji picker.
+- :bug: Fixed issue that prevented Snowtrack to start on Windows.
+- :bug: Fixed issue where broken Blender addons prevent previewing *.blend* files.
+- :bug: Fixed stuck DMG idling in sidebar after being unmounted on macOS.
+- :bug: Fixed issue that prevented Snowtrack to shutdown on macOS.
+- :bug: Fixed issue with long version labels.
+- :bug: Fixed issue with drive labels on Windows.
+- :bug: Update **Recent Projects** list in sidebar.
+
+### Apple M1 support
+
+With version `0.10.42` Snowtrack is now available for Macs powered by the Apple M1 chip. If you are running an Intel build of Snowtrack on an Apple with M1 chip, visit [www.snowtrack.io](https://www.snowtrack.io/downloads.html) and download the latest M1 build.
+
+## Version 0.10.18
+
+- :card_index: **[File browser](#file-browser)** - Explore your documents, assets, props and scene files.
+- :mag_right: **[3D viewer](#3d-viewer)** - Inspect 3D files with an integrated 3D viewer.
+- :compass: **[Address Bar](#address-bar)** - As the proverb goes, *All paths lead to your directory*.
+- :yin_yang: **[Blender Preview](#blender-preview)** - Inspect Blender files.
+- :test_tube: **[Substance Archives](#substance-archives)** - Inspect Substance Archives.
+- :page_facing_up: **[Text Editor](#text-editor)** - Open and diff changes of scripts and config files directly in Snowtrack.
+
 - :card_index: **[File browser](#file-browser)** - Explore your documents, assets, props and scene files.
 - :mag_right: **[3D viewer](#3d-viewer)** - Inspect 3D files with an integrated 3D viewer.
 - :compass: **[Address Bar](#address-bar)** - As the proverb goes, *All paths lead to your directory*.
