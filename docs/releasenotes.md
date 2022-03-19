@@ -9,7 +9,7 @@ sidebar_label: Release Notes
 Welcome to the new beta of Snowtrack - Codename *Cap Gaspé*. There are plenty of new features, UI improvements and bugfixes that are ready to be discovered. Here is a brief overview over major new features:
 
 
-## Version 0.10.54
+## Version 0.10.60
 
 - :star: Add support for project templates.
 - :star: Add PDF support.
