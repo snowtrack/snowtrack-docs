@@ -8,7 +8,7 @@ sidebar_label: Release Notes
 
 Welcome to the new beta of Snowtrack - Codename *Cap Gaspé*. There are plenty of new features, UI improvements and bugfixes that are ready to be discovered. Here is a brief overview over major new features:
 
-## Version 0.10.82
+## Version 0.10.84
 
 - :star: Add native thumbnail support for Octane ORBX.
 - :star: Add native thumbnail support for Blender 3 files.
@@ -17,6 +17,7 @@ Welcome to the new beta of Snowtrack - Codename *Cap Gaspé*. There are plenty o
 - :bug: Fix issue with thumbnails on Japanese Windows.
 - :bug: Changing material color of Sbsar file results in never ending progress spinner.
 - :bug: Fix issue with USB that prevents Snowtrack from starting.
+- :bug: Fix issue with updater.
 
 
 ## Version 0.10.60
