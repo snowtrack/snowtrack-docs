@@ -21,6 +21,18 @@ html[data-theme="dark"] .navbar__logo > img {
   filter: invert(1);
 }
 
+img[alt^="images-40"] {
+    width: 40%;
+}
+
+img[alt^="images-30"] {
+    width: 30%;
+}
+
+*[alt^="shadow"] {
+    box-shadow: rgba(17, 12, 46, 0.25) 0px 8px 32px 0px;
+}
+
 /* By default, the dark/light mode switch is only available
 in the desktop view. */
 .navbar__items--right > div {

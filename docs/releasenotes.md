@@ -8,6 +8,71 @@ sidebar_label: Release Notes
 
 Welcome to the new beta of Snowtrack - Codename *Cap Gaspé*. There are plenty of new features, UI improvements and bugfixes that are ready to be discovered. Here is a brief overview over major new features:
 
+
+
+## Version 0.10.96
+
+- :star: **[Share Files via URL.](#share-files-via-url)**
+- :star: **[Progress information while creating new version](#progress-information-while-creating-new-version)**
+- :star: **[Exclude items temporary from new version.](#exclude-items-temporary-from-new-version)**
+- :star: **[Add status information to list view.](#add-status-information-to-list-view)**
+- :star: **[Better preview for Blender files.](#better-preview-for-blender-previews)**
+- :star: **[Add info message about ignored files.](#add-info-message-about-ignored-files)**
+- :star: **[New buttons to jump between modifications of items](#new-buttons-to-jump-between-modifications-of-items)**
+- :star: Update position for file icons and extensions in file browser.
+- :star: Preserve item selection when switching versions.
+- :star: Hiding sensitive data is now persistent.
+- :bug: Fix tooltips.
+- :bug: Fix opening of *snowproj* archives.
+- :bug: Fix layout issues in toolbar.
+- :bug: Fix layout issues when viewport is closed.
+- :bug: Fix selection for files with special characters.
+- :bug: Preserve materials while switchting display modes in viewport.
+- :bug: Add viewport thumbnail to `.glb` files.
+
+### Share Files via URL
+
+Snowtrack now offers a built-in file sharing option with 100 GB per day. The option to upload and share a file is available through the context menu of files. Files are available for 48 hours and will be deleted afterwards.
+
+![images-40](/img/releasenotes/fileshare.png)
+
+### Progress information while creating new version
+
+Processed files are now listed in the progress dialog when a new version is created.
+
+![images-30](/img/releasenotes/processing.gif)
+
+### Exclude items temporary from new version
+
+When the *Changed items* entry is selected in the version timeline an item can be excluded for the next version.
+
+![images-30](/img/releasenotes/exclude.jpg)
+
+### Add status information to list view
+
+The list-view shows icons to indicate if an item was added, modified or deleted from a version.
+
+![images-30](/img/releasenotes/listview.jpg)
+
+### Better preview for Blender previews
+
+Blender previews received an update through the enhanced viewport. Deformers, modifiers and armatures can be enabled through the **Enhanced Preview** option in the sidebar of the viewport.
+
+![images](/img/releasenotes/enhanced-viewport.png)
+
+### Add info message about ignored files
+
+Snowtrack displays an updated message dialog when restoring an older version. We added the info that temporary files such as auto-saves or backup files are ignored. Such files are often created by applications like Photoshop, Cinema 4D, Blender, etc. and don't need to be stored in a version.
+
+![images-40](/img/releasenotes/restore-button.png)
+
+
+### New buttons to jump between modifications of items
+
+The old buttons to switch between the next and previous version got replaced with buttons to switch between modifications.
+
+![images-30,shadow](/img/releasenotes/jump.jpg)
+
 ## Version 0.10.84
 
 - :star: Add native thumbnail support for Octane ORBX.
@@ -219,6 +284,7 @@ A big big ***Thank You*** 🎉 goes to everyone who helped with feedback and bug
 - 🦾 Flo Tasser [(ArtStation)](https://www.artstation.com/flotasser/)
 - 👨‍🔧 Carlos Barreto [(Twitter)](https://twitter.com/carlosedubarret)
 - 💪🏼 Alex Ray [(Portfolio)](https://alex-ray.ru/)
+- 💫 Oliver Villar [(Portfolio)](https://www.blendtuts.es/)
 - 💯 Derek Rein [(Portfolio)](https://www.derekvfx.ca/) [(IMDb)](https://www.imdb.com/name/nm4415449/)
 - 🐶 Gilles Augustijnen [(Portfolio)](https://www.kapital.tv)
 - 🧐 Prasoon Dhapola [(Portfolio)](https://www.artstation.com/prasoon_dhapola)
