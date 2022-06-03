@@ -8,6 +8,10 @@ sidebar_label: Release Notes
 
 Welcome to the new beta of Snowtrack - Codename *Cap Gaspé*. There are plenty of new features, UI improvements and bugfixes that are ready to be discovered. Here is a brief overview over major new features:
 
+## Version 0.10.99
+
+- :bug: Fix issue where right click in list view doesn't select item.
+
 ## Version 0.10.98
 
 - :bug: Fix issue where ignored items in sub-directories might not be ignored.
