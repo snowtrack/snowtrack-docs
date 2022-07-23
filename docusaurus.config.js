@@ -6,7 +6,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://www.snowtrack.io/images/favicons/favicon.ico',
-  noIndex: true,
+  noIndex: false,
   organizationName: 'Snowtrack', // Usually your GitHub org/user name.
   projectName: 'Snowtrack-docs', // Usually your repo name.
   themeConfig: {
