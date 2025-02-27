@@ -10,11 +10,11 @@ When you format your drive, you use a file system of your choice and whenever yo
 
 Some file systems are very generic and can be used on a variety of different drive types (like SSDs or HDDs). Others are heavily optimized for specific types of drives.
 
-### What has Snowtrack to do with this?
+### What has P4 One to do with this?
 
-Since Snowtrack manages your file versions, it uses features of the underlying file system to organize and manage your files. Regardless of whether your project contains only a few 2D graphic files, or you are dealing with multi-gigabyte-sized 3D files, Snowtrack's job is to create versions of them as fast as possible.
+Since P4 One manages your file versions, it uses features of the underlying file system to organize and manage your files. Regardless of whether your project contains only a few 2D graphic files, or you are dealing with multi-gigabyte-sized 3D files, P4 One's job is to create versions of them as fast as possible.
 
-That's why it's very important for your machine to be properly set up, allowing Snowtrack to make the best use of the capabilities it has.
+That's why it's very important for your machine to be properly set up, allowing P4 One to make the best use of the capabilities it has.
 
 Let's cover some technicalities first.
 

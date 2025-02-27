@@ -4,7 +4,7 @@ title: File Support
 sidebar_label: File Support
 ---
 
-Snowtrack can handle and version every filetype. However, there are some files that have dedicated support, e.g. thumbnails.
+P4 One can handle and version every filetype. However, there are some files that have dedicated support, e.g. thumbnails.
 
 ✅ Fully supported
 🟠 Supported, but no thumbnails
@@ -39,7 +39,7 @@ Snowtrack can handle and version every filetype. However, there are some files t
 | [SideFX Houdini](https://www.sidefx.com)                                          | 🔜     | 🔜      |        |
 | [Modo 3D](https://www.sidefx.com)                                                 | 🟠     | 🟠      | 🟠     |
 
-Below is a list of more filetypes of significant importance. If we forgot an important filetype and you would like us to support it, send us an email to [hello@snowtrack.io](mailto:hello@snowtrack.io).
+Below is a list of more filetypes of significant importance. If we forgot an important filetype and you would like us to support it, send us an email to [support@perforce.com](mailto:support@perforce.com).
 
 |      | macOS | Windows | Linux |
 |------|-------|---------|-------|

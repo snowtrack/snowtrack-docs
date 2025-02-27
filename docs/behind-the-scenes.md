@@ -6,13 +6,7 @@ sidebar_label: Behind the Scenes
 
 This chapter requires some technical knowledge, so if you want to explore some geek talk, we invite you to join us behind the scenes of Snowtrack.
 
-Snowtrack is based on [SnowFS](https://github.com/snowtrack/snowfs), our open-source community project, a fast, scalable version control file storage for graphic files. It is free for everyone to use.
-
-![full](/img/snowfs.png)
-
-To inspect, or to support SnowFS repositories, you can simply download the command-line version and create, inspect and modify projects created with Snowtrack. SnowFS is a lightweight command-line application and library with a focus on binary file versioning.
-
-![full](/img/terminal.gif)
+To inspect, or to support P4 One repositories, you can simply download the command-line version and create, inspect and modify projects created with P4 One. P4 One CLI is a lightweight command-line application and library with a focus on binary file versioning.
 
 ## Feature highlights
 
@@ -55,22 +49,7 @@ git checkout HEAD~1: 9739ms
 snow checkout HEAD~1: 77ms <-- Yeah!
 ```
 
-## Licensing
-
-`SnowFS` is licensed under the **MIT** license, please review the [LICENSE file](https://github.com/Snowtrack/SnowFS/blob/main/LICENSE).
-Excluded from the license are images, artworks, and logos. Please file a request by mail, if you have any questions.
-
 ## Supported Platforms
 
-Currently, Windows, macOS, and Linux are supported. `SnowFS` works on plain filesystems like FAT, NTFS, HFS+ and has extended support for APFS, ReFS and Btrfs.
+Currently, Windows and macOS.
 
-
-## How can I contribute?
-
-See the [guidelines for contributing][].
-
-[node.js]: http://nodejs.org/
-[terminal_preview]: https://github.com/snowtrack/snowfs/raw/main/img/terminal.gif
-[Snowtrack]: https://www.snowtrack.io/
-[guidelines for contributing]: https://github.com/snowtrack/snowfs/blob/main/CONTRIBUTING.md
-[snowfs_banner]: https://github.com/snowtrack/snowfs/raw/main/img/banner.png
