@@ -1,7 +1,7 @@
 ---
 id: versions
-title: Project Versions
-sidebar_label: Project Versions
+title: Workspace Versions
+sidebar_label: Workspace Versions
 ---
 
 <div className="block">
@@ -10,7 +10,7 @@ sidebar_label: Project Versions
 
 ![left](/img/versions.png)
 
-In Snowtrack, the left column represents the project timeline and shows all versions you have created throughout the lifetime of the project in descending order.
+In P4 One, the left column represents the project timeline and shows all versions you have created throughout the lifetime of the project in descending order.
 
 
 #### Current state
@@ -31,15 +31,15 @@ In Snowtrack, the left column represents the project timeline and shows all vers
 
 ![left](/img/changed-files.png)
 
-If a file modification is detected in your working directory, Snowtrack will indicate this by creating an entry called **Changed files**. Inspect the changes by clicking on this entry.
+If a file modification is detected in your working directory, P4 One will indicate this by creating an entry called **Changed files**. Inspect the changes by clicking on this entry.
 
 Use the **Create Version** button to create a new version.
 
-Snowtrack will copy these changes to the version database to protect them from further modifications. This process may take a few seconds, up to a few minutes, depending on the size and complexity of the changes involved.
+P4 One will copy these changes to the version database to protect them from further modifications. This process may take a few seconds, up to a few minutes, depending on the size and complexity of the changes involved.
 
-If a 3rd-party application is in the the middle of adding changes to your working directory while you press the **Create Version** button, Snowtrack will detect this, and inform you to repeat the saving process.
+If a 3rd-party application is in the the middle of adding changes to your working directory while you press the **Create Version** button, P4 One will detect this, and inform you to repeat the saving process.
 
-After you press the **Create Version** button, it is highly recommended to wait until Snowtrack has completed backing up your files.
+After you press the **Create Version** button, it is highly recommended to wait until P4 One has completed backing up your files.
 
 </div>
 
@@ -53,6 +53,6 @@ To delete a version from your project timeline, perform a *Right-click* on the v
 
 Please note, **this operation cannot be undone!**
 
-<div className="info" ></div> A deleted version might contain files that are not referenced by any other version. A future update of Snowtrack will remove these dangling files in the version database.
+<div className="info" ></div> A deleted version might contain files that are not referenced by any other version. A future update of P4 One will remove these dangling files in the version database.
 
 </div>

@@ -11,10 +11,9 @@ module.exports = {
       'versions',
       'tracks',
       'ignore',
-      'manage-projects',
+      'manage-workspaces',
       'project-info',
       'file-support',
-      'cloud-storage'
     ],
     Advanced: [
       'backups',
@@ -22,12 +21,9 @@ module.exports = {
       'behind-the-scenes',
     ],
     Knowledgebase: [
-      'snowtrack-for-tutorials',
-      'linux',
       'uninstall'
     ],
     Appendix: [
-      'telemetry',
       'system-requirements',
     ]
   },
