@@ -14,18 +14,14 @@ P4 One offers two ways of tracking your work:
 
 To create a completely new workspace from scratch, click on the command **Create...** in the left sidebar. The dialog shown below will appear. Set the workspace name and the destination of your workspace directory.
 
-![Create Workspace Dialog](/img/create-project.png)
+![Create Workspace Dialog](/img/create-workspace.png)
 
 To create a new workspace from scratch, you can alternatively right-click on empty space in the item view and select `Create`➡️ `New Workspace`.
-
-![Right ](/img/new-project.png)
 
 
 ### Your existing folder
 
 To track an existing project that is not yet under version control of P4 One, visit the directory it is located in. Right-click on your project directory and click on `Create Workspace From...`
-
-![Existing Project Dialog](/img/create-project-from.png)
 
 Creating a workspace from an existing folder will not modify any files that are inside the directory.
 
@@ -37,8 +33,6 @@ In order to protect your files, P4 One copies all file versions of your project 
 **A) Inside the Workspace Directory**:
 
 By default, P4 One stores all files inside the workspace directory. In this case P4 One creates a hidden folder named *.p4one* inside your project directory.
-
-![Existing Project Dialog](/img/folder-detected.png)
 
 **B) Inside the Local Version Database**:
 

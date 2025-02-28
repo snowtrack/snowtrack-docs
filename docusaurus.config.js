@@ -63,10 +63,6 @@ module.exports = {
             current: {
               label: 'v0.10 (Cap Gaspé)'
             },
-            '0.9': {
-              label: 'v0.9 (Summer Woods)',
-              path: '0.9',
-            },
           },
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
