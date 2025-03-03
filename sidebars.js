@@ -21,7 +21,8 @@ module.exports = {
       'behind-the-scenes',
     ],
     Knowledgebase: [
-      'uninstall'
+      'uninstall',
+      'ue-glossary',
     ],
     Appendix: [
       'system-requirements',
