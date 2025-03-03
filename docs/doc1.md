@@ -28,9 +28,4 @@ This documentation helps you getting started with P4 One.
 
 - Versions can be managed by P4 One or stored inside a project directory.
 
-## Privacy
-
-P4 One follows the principles of [Privacy by Design](https://en.wikipedia.org/wiki/Privacy_by_design). We do not use any third-party metrics software. Our handcrafted anonymous telemetry system ensures no personally identifiable information or information about your work is transmitted at any point.
-
-See [telemetry](telemetry.md) for a full breakdown of telemetry options.
 
