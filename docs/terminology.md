@@ -48,3 +48,10 @@ When you create a project, you can choose where your file backups will be stored
 - Inside the **workspace directory**:
 
   In that case, P4 One creates a hidden directory called `.p4one` in your workspace directory. This is the **local** version database. For more information on this topic, check out the page [Get started](getting-started.md).
+
+### Perforce Client or Client
+
+The workspace you are working in is sufficient as you iterate locally on your projects.  When you are ready to
+ share your work with others, a Perforce client is needed in order to submit changes to a remote server.
+A Perforce client or ***client*** allows directories on your machine to be managed by a P4 Server.
+
