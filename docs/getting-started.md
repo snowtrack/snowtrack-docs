@@ -36,4 +36,11 @@ By default, P4 One stores all files inside the workspace directory. In this case
 
 **B) Inside the Local Version Database**:
 
-An alternative location for your file versions is the local version database. The local version database is located outside of your project directory. The path can be set in the preferences. This option is useful if you wish to keep your project and file versions completely seperate. If this option was chosen, you can also delete your project directory and restore your entire project based on the file versions that were tracked before. For more information, read [Manage Projects / Restore Project](manage-projects.md#restore-project).
+An alternative location for your file versions is the local version database. The local version database is located outside of your project directory. The path can be set in the preferences. This option is useful if you wish to keep your project and file versions completely seperate. If this option was chosen, you can also delete your project directory and restore your entire project based on the file versions that were tracked before. For more information, read [Manage Workspaces / Restore Project](manage-workspaces.md#restore-project).
+
+### Sharing work with a remote server
+
+To share your work with others, click on `Login` to connect to a P4 Server.    
+For more information, read [Remote Operations](remote.md).
+
+

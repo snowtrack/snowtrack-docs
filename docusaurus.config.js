@@ -2,7 +2,7 @@ module.exports = {
   title: 'P4 One Documentation',
   // tagline: ' tagline of my site',
   url: 'https://www.perforce.com',
-  baseUrl: '/',
+  baseUrl: '/helix-core/server-apps/p4one/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'favicon.svg',

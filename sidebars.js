@@ -12,6 +12,7 @@ module.exports = {
       'tracks',
       'ignore',
       'manage-workspaces',
+      'remote',
       'project-info',
       'file-support',
     ],
