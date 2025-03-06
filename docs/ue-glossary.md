@@ -15,10 +15,12 @@ This chapter contains definitions of terms in the P4 One Unreal Engine Plugin.
 ### Submit Content
 This is equivalent to creating a local version in the P4 One Deskstop App.
 
+### Connect to Server
+This is to configure your perforce connection and interact with remote changes.
 
 ### Push
-This is equivalent to submitting a changelist in the P4 One Desktop App.
+This will reconcile all the local versions and submit its changelist to server. This is equivalent to submitting a changelist in the P4 One Desktop App.
 
 ### Pull
-This is equivalent to syncing the latest.
+This will get the latest revision from the server. This is equivalent to syncing to head.
 
