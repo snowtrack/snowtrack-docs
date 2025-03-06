@@ -16,9 +16,9 @@ This chapter contains definitions of terms in the P4 One Unreal Engine Plugin.
 This is equivalent to creating a local version in the P4 One Deskstop App.
 
 
-### Submit Version
+### Push
 This is equivalent to submitting a changelist in the P4 One Desktop App.
 
-### Get Latest
-This is equivalent to syncing to head.
+### Pull
+This is equivalent to syncing the latest.
 

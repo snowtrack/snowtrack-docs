@@ -36,18 +36,7 @@ To inspect, or to support P4 One repositories, you can simply download the comma
 
 ## Running benchmarks
 
-Example run on a Macbook Pro (2020) with an APFS formatted SSD to check-in, delete and restore a 4GB Photoshop File.
-
-```
-...
-git lfs track *.psd
-git add texture.psd: 20164ms
-snow add texture.psd: 4596ms
-git rm texture.psd: 575ms
-snow rm texture.psd: 111ms
-git checkout HEAD~1: 9739ms
-snow checkout HEAD~1: 77ms <-- Yeah!
-```
+Example benchmarks coming soon...
 
 ## Supported Platforms
 

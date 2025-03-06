@@ -14,18 +14,26 @@ The top toolbar in P4 One contains various operations that allows you to connect
 
 ### Login
 
-![Login](/img/login-yellow-dot.png)
-### Toggle remote
-Click the toggle to see changelists on the remote server.
-![Toggle](/img/local-remote-toggle.png)
+If you are already logged into a P4 Server, click the ***Login*** button and enter your credentials.
+Once you have successfully logged in, you should see your user name, Perforce client and server your are connected to.
 
-TODO: Show/describe remote aka p4 operations here 
-Once you've connected to a P4 server, toggle remote blah blah
+### Checkout and Lock
 
-### Push
+Select a file you want to work on and right click ***Checkout and Lock Item***.
 
-### Pull
+### Submit
 
-That's it folks!
+Right click on the current version on the graph and select ***Submit Version***.
+
+### Toggle Remote Changes
+
+Click the toggle to see Perforce changelists on the remote server.
+
+### Sync
+
+In the ***Remote Changes*** view, click ***Sync*** to pull down all the latest changes.
+
+
+
 
 
