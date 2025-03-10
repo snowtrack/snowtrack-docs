@@ -62,7 +62,7 @@ module.exports = {
           lastVersion: 'current',
           versions: {
             current: {
-              label: 'v0.18 (Cap Gaspé)'
+              label: 'v2025.1 Preview (Chow Mein)'
             },
           },
           sidebarPath: require.resolve('./sidebars.js'),
