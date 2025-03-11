@@ -11,6 +11,4 @@ slug: /system-requirements
 - **macOS**
   macOS 10.13+.
   
-  <div className="info" ></div> An optimized build for Apple Silicion (M1) is in the making.
-
 - No online connection required, but recommended to connect to P4 Server.
