@@ -62,7 +62,7 @@ module.exports = {
           lastVersion: 'current',
           versions: {
             current: {
-              label: 'v2025.1 Preview (Chow Mein)'
+              label: 'v2025.1 Preview'
             },
           },
           sidebarPath: require.resolve('./sidebars.js'),
