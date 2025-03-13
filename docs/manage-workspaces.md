@@ -15,9 +15,9 @@ The sidebar in P4 One contains an option called **Manage...** that allows you to
 
 ### Delete Workspace
 
-You can delete a workspace including the version database by clicking the menu expansion icon <span className="more" /> on the right side of the table. Both, the project and the version database are moved to the trash/recycle bin.
+You can delete a workspace including the version database by context clicking **Delete Workspace**. Both, the project and the version database are moved to the trash/recycle bin.  This does not delete the Perforce client.
 
 ### Restore Workspace
 
-All projects whose versions are stored in the [version database](terminology.md#version-database) can be restored by P4 One. Within `Manage Workspaces` click **Restore project**. P4 One will restore the project at its original location.
+All projects whose versions are stored in the [version database](terminology.md#version-database) can be restored by P4 One. Within `Manage Workspaces` context click **Restore project**. P4 One will restore the project at its original location.
 

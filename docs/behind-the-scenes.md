@@ -4,7 +4,7 @@ title: Behind the Scenes
 sidebar_label: Behind the Scenes
 ---
 
-This chapter requires some technical knowledge, so if you want to explore some geek talk, we invite you to join us behind the scenes of Snowtrack.
+This chapter requires some technical knowledge, so if you want to explore some geek talk, we invite you to join us behind the scenes of P4 One.
 
 To inspect, or to support P4 One repositories, you can simply download the command-line version and create, inspect and modify projects created with P4 One. P4 One CLI is a lightweight command-line application and library with a focus on binary file versioning.
 
@@ -30,26 +30,14 @@ To inspect, or to support P4 One repositories, you can simply download the comma
 
 - Primarily I/O bound through [libuv](https://github.com/libuv/libuv)
 
-- Feature XYZ made by you!
-
 \*\* If the underlying filesystem supports it (e.g. APFS, ReFS and Btrfs)
 
 ## Running benchmarks
 
-Example run on a Macbook Pro (2020) with an APFS formatted SSD to check-in, delete and restore a 4GB Photoshop File.
-
-```
-...
-git lfs track *.psd
-git add texture.psd: 20164ms
-snow add texture.psd: 4596ms
-git rm texture.psd: 575ms
-snow rm texture.psd: 111ms
-git checkout HEAD~1: 9739ms
-snow checkout HEAD~1: 77ms <-- Yeah!
-```
+Example benchmarks coming soon...
 
 ## Supported Platforms
 
 Currently, Windows and macOS.
 
+Interested in a Linux build? Please email us at p4one-beta@perforce.com and let us know!

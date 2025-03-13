@@ -5,6 +5,7 @@ module.exports = {
       'terminology',
       'getting-started',
       'releasenotes',
+      'system-requirements',
       'faqs'
     ],
     Basics: [
@@ -12,6 +13,7 @@ module.exports = {
       'tracks',
       'ignore',
       'manage-workspaces',
+      'remote',
       'project-info',
       'file-support',
     ],
@@ -21,10 +23,10 @@ module.exports = {
       'behind-the-scenes',
     ],
     Knowledgebase: [
-      'uninstall'
+      'uninstall',
     ],
     Appendix: [
-      'system-requirements',
+      'ue-glossary',
     ]
   },
 };

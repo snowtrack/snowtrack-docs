@@ -4,11 +4,19 @@ title: Release Notes
 sidebar_label: Release Notes
 ---
 
-# P4 One Beta - GDC Demo
+:::caution
 
-Welcome to the new beta of P4 One - Codename *GDC Demo*. There are plenty of new features, UI improvements and bugfixes that are ready to be discovered. Here is a brief overview over major new features:
+This first release of P4 One is a Technology Preview. Features offered in
+Technology Preview are experimental and not guaranteed to always work as
+expected. If you have feedback and functionality suggestions,
+email p4one-beta@perforce.com.
+
+:::
+
+# P4 One Beta
+
+Welcome to the beta of Perforce P4 One. There are plenty of new features that are ready to be discovered. Keep in mind, this project is in beta state and is being actively developed. Do not use this software without backing up your data.
 
 ## Version 2025.1 Technical Preview
 
-- :star: Push and pull local versions to Helix Core servers (2024.2+).
-
+- :star: Initial release with Perforce P4 integration. (P4 Server 2024.2+) :tada:

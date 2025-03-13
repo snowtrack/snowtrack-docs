@@ -6,14 +6,9 @@ slug: /system-requirements
 ---
 
 - **Windows**
-  Microsoft Windows 10 (64-bit)
+  Microsoft Windows 11 (64-bit)
 
 - **macOS**
-  macOS 10.13+.
+  macOS 14.7+.
   
-  <div className="info" ></div> An optimized build for Apple Silicion (M1) is in the making.
-
-- **Linux**
-  Ubuntu LTS 16.04+, Debian 9+, CentOS 7+, Fedora 31+
-
-- No online connection required, but recommended (to receive updates).
+- No online connection required, but recommended to connect to P4 Server.

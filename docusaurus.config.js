@@ -2,7 +2,8 @@ module.exports = {
   title: 'P4 One Documentation',
   // tagline: ' tagline of my site',
   url: 'https://www.perforce.com',
-  baseUrl: '/',
+  baseUrl: '/helix-core/server-apps/p4one/',
+  //baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'favicon.svg',
@@ -61,13 +62,10 @@ module.exports = {
           lastVersion: 'current',
           versions: {
             current: {
-              label: 'v0.10 (Cap Gaspé)'
+              label: 'v2025.1 Preview'
             },
           },
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/Snowtrack/snowtrack-docs/edit/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

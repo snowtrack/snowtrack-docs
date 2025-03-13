@@ -29,6 +29,11 @@ img[alt^="images-30"] {
     width: 30%;
 }
 
+img[alt="left"] {
+  width: 305px;
+  height: auto;
+}
+
 *[alt^="shadow"] {
     box-shadow: rgba(17, 12, 46, 0.25) 0px 8px 32px 0px;
 }

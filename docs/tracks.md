@@ -26,7 +26,7 @@ In P4 One Tracks are created automatically when needed. Check out the following 
 
 <div className="block">
 
-![left](/img/track-create-2.png) We restore the older version called **`added UV textures`**.
+![left](/img/track-create-2.png) We restore the older version called **`added UV textures`** by clicking on the **Restore Version** button (circular arrow icon).
 
 </div>
 
