@@ -12,7 +12,7 @@ P4 One can handle and version every filetype. However, there are some files that
 |                                                                                   | macOS | Windows | 
 |-----------------------------------------------------------------------------------|-------|---------|
 | [Blender](https://www.blender.org)                                                | ✅     | ✅      |
-| [Unreal Engine](https://www.unrealengine.com/)                                    | ✅     | ✅      |
+| [Blender](https://www.blender.org)                                                | ✅     | ✅      |
 | [Maxon Cinema 4D](https://www.maxon.net)                                          | ✅     | ✅      | 
 | [Adobe Photoshop](https://www.adobe.com/ca/products/photoshop.html)               | ✅     | ✅      | 
 | [Adobe Illustrator](https://www.adobe.com/ca/products/illustrator.html)           | ✅     | ✅      | 
@@ -42,6 +42,8 @@ P4 One can handle and version every filetype. However, there are some files that
 
 Below is a list of more filetypes of significant importance. If we forgot an important filetype and you would like us to support it, send us an email to [support@perforce.com](mailto:support@perforce.com).
 
+🟣 Many, but not all codecs are supported.
+
 |      | macOS | Windows |
 |------|-------|---------|
 | Fbx  | ✅    | ✅      |
@@ -64,4 +66,3 @@ Below is a list of more filetypes of significant importance. If we forgot an imp
 | stl  | ✅    |         |
 | xls  | ✅    | ✅      |
 
-🟣 Many, but not all codecs are supported.

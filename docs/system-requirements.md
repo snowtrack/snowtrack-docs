@@ -6,9 +6,9 @@ slug: /system-requirements
 ---
 
 - **Windows**
-  Microsoft Windows 10 (64-bit)
+  Microsoft Windows 11 (64-bit)
 
 - **macOS**
-  macOS 10.13+.
+  macOS 14.7+.
   
 - No online connection required, but recommended to connect to P4 Server.

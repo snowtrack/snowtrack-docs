@@ -6,11 +6,11 @@ sidebar_label: Ignore Items
 
 :::caution
 
-The content of this documentation still contains references to P4 One [v0.9](0.9/). The documentation update for `v0.10` is still in progress.
+The content of this documentation still contains references to P4 One [v0.9](0.9/). The documentation update for `v2025.1` is still in progress.
 
 :::
 
-Your workspace directory can contain a variety of different files. Depending on your personal preference you might want to exclude some of them. After an item is ignored, it is ignored by any operation by P4 One. This means, restoring a version or discarding changes leaves them untouched. P4 One ignores a variety of unwanted files by default. You can find this list [here] TODO: add list.
+Your workspace directory can contain a variety of different files. Depending on your personal preference you might want to exclude some of them. After an item is ignored, it is ignored by any operation by P4 One. This means, restoring a version or discarding changes leaves them untouched. P4 One ignores a variety of unwanted files by default.
 
 <div className="block">
 

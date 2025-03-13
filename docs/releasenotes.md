@@ -15,7 +15,7 @@ email p4one-beta@perforce.com.
 
 # P4 One Beta
 
-Welcome to the new beta of Perforce P4 One. There are plenty of new features that are ready to be discovered. Keep in mind, this project is in beta state and is being actively developed. Do not use this software without backing up your data.
+Welcome to the beta of Perforce P4 One. There are plenty of new features that are ready to be discovered. Keep in mind, this project is in beta state and is being actively developed. Do not use this software without backing up your data.
 
 ## Version 2025.1 Technical Preview
 

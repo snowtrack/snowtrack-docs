@@ -18,6 +18,10 @@ This is equivalent to creating a local version in the P4 One Deskstop App.
 ### Connect to Server
 This is to configure your perforce connection and interact with remote changes.
 
+There are four fields that are required: Server, Username, Password and Perforce client.
+
+***Note: The Perforce client needs to already exist and its root directory must match the P4 One workspace.***
+
 ### Push
 This will reconcile all the local versions and submit its changelist to server. This is equivalent to submitting a changelist in the P4 One Desktop App.
 

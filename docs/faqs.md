@@ -9,12 +9,12 @@ title: FAQs
 P4 One is for 2D/3D artists and graphic designers who want to keep track of their project versions. As a project grows, directories can become messy and cluttered. P4 One helps with file management and makes version control easy to use and accessible.
 
 ### What is a beta version?
-
+ 
 A **beta** software is in a stage where some functionality is not fully implemented yet. The software is proven to work under normal conditions but requires additional testing to improve its robustness.
 
 ### Does P4 One require an internet connection?
 
-No, P4 One works perfectly fine when offline since all files and versions of your project are stored locally on your computer. With online access links and resources are accessible, including an update check, but this is optional.
+No, P4 One works perfectly fine when offline since all files and versions of your project are stored locally on your computer. With online access links and resources are accessible, including connection to a remote P4 Server, but this is optional.
 
 ### Where does P4 One keep all my file versions?
 

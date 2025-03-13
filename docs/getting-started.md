@@ -28,15 +28,7 @@ Creating a workspace from an existing folder will not modify any files that are 
 
 ### Location of file versions
 
-In order to protect your files, P4 One copies all file versions of your project versions to another location. You can choose between two locations to which they can be copied.
-
-**A) Inside the Workspace Directory**:
-
-By default, P4 One stores all files inside the workspace directory. In this case P4 One creates a hidden folder named *.p4one* inside your project directory.
-
-**B) Inside the Local Version Database**:
-
-An alternative location for your file versions is the local version database. The local version database is located outside of your project directory. The path can be set in the preferences. This option is useful if you wish to keep your project and file versions completely seperate. If this option was chosen, you can also delete your project directory and restore your entire project based on the file versions that were tracked before. For more information, read [Manage Workspaces / Restore Project](manage-workspaces.md#restore-project).
+By default, P4 One stores all files inside the workspace directory. In this case P4 One creates a hidden folder named *.p4one* inside your project directory.  Do not change the content of this directory, as it could negatively impact the versioning process.
 
 ### Sharing work with a remote server
 

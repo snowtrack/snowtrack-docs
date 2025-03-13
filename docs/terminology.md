@@ -55,3 +55,8 @@ The workspace you are working in is sufficient as you iterate locally on your pr
  share your work with others, a Perforce client is needed in order to submit changes to a remote server.
 A Perforce client or ***client*** allows directories on your machine to be managed by a P4 Server.
 
+### Beta Software
+
+Software that is actively being worked on.  Future versions are not guaranteed to be backwards compatible.
+Do not use this software without backing up your data.
+

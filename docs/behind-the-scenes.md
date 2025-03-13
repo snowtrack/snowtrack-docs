@@ -4,7 +4,7 @@ title: Behind the Scenes
 sidebar_label: Behind the Scenes
 ---
 
-This chapter requires some technical knowledge, so if you want to explore some geek talk, we invite you to join us behind the scenes of Snowtrack.
+This chapter requires some technical knowledge, so if you want to explore some geek talk, we invite you to join us behind the scenes of P4 One.
 
 To inspect, or to support P4 One repositories, you can simply download the command-line version and create, inspect and modify projects created with P4 One. P4 One CLI is a lightweight command-line application and library with a focus on binary file versioning.
 
@@ -30,8 +30,6 @@ To inspect, or to support P4 One repositories, you can simply download the comma
 
 - Primarily I/O bound through [libuv](https://github.com/libuv/libuv)
 
-- Feature XYZ made by you!
-
 \*\* If the underlying filesystem supports it (e.g. APFS, ReFS and Btrfs)
 
 ## Running benchmarks
@@ -42,3 +40,4 @@ Example benchmarks coming soon...
 
 Currently, Windows and macOS.
 
+Interested in a Linux build? Please email us at p4one-beta@perforce.com and let us know!
